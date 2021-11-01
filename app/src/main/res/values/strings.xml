@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!-- TOASTS -->
+    <string name="pdfCreate">Documento firmado exitosamente</string>
+    <string name="form_error_correct">Favor de rellenar correctamente el formulario</string>
+    <string name="form_email_correct">Introduzca una mail válido</string>
+    <string name="error_valid_field">Campo Obligatorio</string>
+    <string name="lessthan9">Máximo 9 menores a cargo</string>
+    <string name="loading">Cargando. Porfavor espere...</string>
+    <string name="obligatory_field">Favor de responde los campos obligatorios</string>
+
+    <!-- Main -->
+    <string name="app_name">BoulderCorpRegistration</string>
+    <string name="brand_title" translatable="false">BOULDER CORP</string>
+    <string name="register_btn">Registrarse</string>
+    <string name="slogan" translatable="false">Climbing</string>
+
+    <!-- Politicas de datos -->
+    <string name="use_data">Aviso de Uso de Datos</string>
+    <string-array name="aviso_datos">
+        <item name="aviso_1">Gracias por tu interés en Boulder Corp.
+        Para nosotros, tu privacidad y comodidad es muy
+        importante y queremos que conozcas, a través de este Aviso de Privacidad,
+        cómo y para qué utilizamos la información de nuestros visitantes.</item>
+        <item name="aviso_2">Boulder Corp, climbing, está comprometido con el respeto a tu privacidad
+            y la Ley de Protección de Datos Personales.
+        Toda información brindada que sea considerada datos personales,
+        de acuerdo a la Ley, será debida y cuidadosamente tratada y conservada bajo
+        nuestra responsabilidad en sistemas informáticos, pudiendo ser también custodiada
+        en sistemas informáticos ubicados en la nube.</item>
+        <item name="aviso_3">El tratamiento y uso de tus datos personales por Boulder Corp, climbing,
+        será realizado conforme a las condiciones y fines de este Aviso,
+        a través de la presente aplicación de contrato/formulario.</item>
+        <item name="aviso_4">En caso de que se requiera usar tus datos personales con fines diferentes
+        a los señalados en el presente Aviso, te contactaremos con el fin de solicitar tu autorización.</item>
+        <item name="aviso_5">Solicitamos tu información con la finalidad de identificarte, localizarte, comunicarte,
+        contactarte, enviarte información,
+        dar cumplimiento a obligaciones que hemos contraído contigo y elaborar bases de datos
+        que serán utilizadas para ofrecerte productos y/o servicios de BoulderCorp, climbing,
+        que pudieran ser de tu interés y/o de terceros.</item>
+        <item name="aviso_6">El uso de los datos personales y datos sensibles tendrán relación directa
+        con el tipo de interacción que tengas con Boulder Corp, climbing, ya sea comercial, laboral,
+        civil, mercantil o de cualquier otra naturaleza.</item>
+        <item name="aviso_7">La temporalidad del manejo de los datos personales y/o datos sensibles será indefinida
+        a partir de la fecha en que hayan sido proporcionados.</item>
+        <item name="aviso_8">Datos personales que solicitamos de forma directa y a través de nuestra página aplicación:
+        a) Nombre  b) Correo   c) Teléfono d) Fecha de nacimiento e) Datos contacto de emergencia
+        Una vez que entregas a Boulder Corp, climbing tus datos personales,
+        éstos serán conservados en diferentes medios seguros, cuyo acceso estará solamente
+        limitado a las personas físicas y/o jurídicas con las que Boulder Corp, climbing,
+        tenga alguna relación.</item>
+        <item name="aviso_9">Contaremos con las medidas de seguridad adecuadas para proteger el uso de tus datos personales
+        por parte de terceros no autorizados. En caso se requiera de alguna autoridad,
+        tus datos personales podrán ponerse a disposición de éstas, dentro del estricto cumplimiento de la Ley.</item>
+        <item name="aviso_10">El tratamiento de tus datos personales, que has puesto a disposición de Boulder Corp, climbing,
+        podrá ser efectuado conforme a los presentes términos y condiciones,
+        por lo que desde este momento se entiende que autorizas expresamente a Boulder Corp, climbing,
+        para su uso, mientras no manifiestes tu oposición mediante alguno de los medios que indica la Ley.</item>
+        <item name="aviso_11">Tienes derecho a acceder a tus datos personales y a los detalles del tratamiento de los mismos,
+        así como corregirlos, en caso sean inexactos o incompletos;
+        cancelarlos cuando consideres que no se requieren para alguna de las finalidades señaladas en este Aviso.
+        Si están siendo utilizados para finalidades no consentidas o si ha finalizado la relación contractual
+        o de servicio puede dirigir una solicitud de oposición al mostrador de Boulder Corp, climbing o por redes sociales.</item>
+        <item name="aviso_12">Nos comprometemos a no tratar estos datos para fines distintos al contrato o
+        acuerdo específico para el que han sido proporcionados con tu consentimiento.</item>
+        <item name="aviso_13">Nos reservamos el derecho de realizar,
+        en cualquier momento, modificaciones y/o actualizaciones al presente Aviso,
+        según las novedades legislativas, políticas internas o nuevos requerimientos para el ofrecimiento
+        de nuestros servicios o productos.</item>
+    </string-array>
+
+    <!-- WELCOME -->
+    <string name="welcome_head">Recomendaciones Bouldereras</string>
+    <string name="welcome">Bienvenid@</string>
+    <string name="txt_bienvenida">En BOULDER CORP queremos que te sientas como en casa, cualquier duda o inquietud que tengas, acercarte a nuestro personal,... ¡Estamos para servirte!</string>
+    <string name="check_politicas">He leído y estoy de acuerdo con las</string>
+    <string name="reglamentoOk">Estoy de acuerdo y me comprometo a seguir con el reglamento/recomendaciones de BOULDER CORP.</string>
+
+
+    <!-- Formulario -->
+    <string name="form_title">Registro</string>
+
+    <string name="enter_name_hint">Escriba su nombre(s)</string>
+    <string name="enter_lastanme">Escriba sus apellidos</string>
+    <string name="enter_id_number">Escriba ID oficial</string>
+    <string name="fecha_nac">Fecha de nacimiento</string>
+    <string name="enter_email">Escriba su mail</string>
+
+    <string name="enter_birth_date">INSERTAR FECHA DE CUMPLEAÑOS</string>
+    <string name="form_title_1">INTRODUZCA SUS DATOS PERSONALES</string>
+    <string name="form_title_2">REGISTRO A MENORES DE EDAD</string>
+    <string name="form_title_3">¿A QUIEN PODEMOS LLAMAR EN CASO DE EMERGENCIA?</string>
+
+    <string name="resp_enfants">¿Está a cargo de algún menor?</string>
+    <string name="childs_names"><font size="12">Nombre completo del menor</font></string>
+    <string name="parient_hint">Nombre del Amigo/Pariente</string>
+    <string name="cell_num">Número celular</string>
+    <string name="reg_menor">Registro menores de edad</string>
+
+    <string name="form_sign">Firmar</string>
+
+
+    <!-- PANTALLA FINAL -->
+    <string name="thanks">¡Gracias!</string>
+    <string name="final_btn">Finalizar</string>
+    <string name="goodbye_txt">Esperamos que disfrutes de tu escalada... ¡Buenos Pegues!</string>
+
+
+    <!-- SIGN PAD -->
+    <string name="btn_continue">Continuar</string>
+    <string name="action_btn_text" translatable="false">BC</string>
+    <string name="introduceFirma">Introduce tu firma</string>
+    <string name="sign">Firmar</string>
+    <string name="clear">Borrar</string>
+
+
+
+
+
+    <!-- Contract Array -->
+    <string-array name="contract_1">
+        <item name="contract_title_1">DESLINDE</item>
+        <item>declaro voluntaria, libre y espontáneamente, que deseo usar todas y cada una de las instalaciones
+        del Gimnasio de escalada de BOULDER CORP y / o participar en otras
+        actividades en cualquier lugar, ya sea en el interior o al aire libre, que estén patrocinadas
+        por o involucren a BOULDER CORP climbing. En consideración a  BOULDER CORP climbing que me
+        permite usar la Instalación y / o permitirme participar en actividades, he acordado ejecutar
+        este Acuerdo de Liberación de Responsabilidad, Asunción de Riesgo, Indemnización y
+        Participación (el "Deslinde").</item>
+        <item>De mi parte, de mis familiares, administradores y representantes legales
+        declaro que <u>soy física y mentalmente capaz</u> de participar en todas las actividades de escalada de BOULDER CORP. y hago cesión de lo siguiente:</item>
+
+    </string-array>
+    <string-array name="contract_2">
+        <item name="contract_title_2">RECONOCIMIENTO DE RIESGOS</item>
+        <item>Reconozco que la escalada en roca y/o boulder ya sea en interiores y / o
+        al aire libre es peligrosa, incluidos, entre otros, los peligros asociados con escalar,
+        descender, caer y “espotear”. Entiendo que ninguna cantidad de cuidado, precaución,
+        instrucción o experiencia puede eliminar los peligros asociados con estas y otras
+        actividades relacionadas.</item>
+        <item name="p_2_d">Reconozco los peligros de escalar, que incluyen, entre otros,
+            caídas debido a equipo colocado incorrectamente, equipo o material suelto o que se cae;
+            caer debido al movimiento repentino de agarres o agarres en mal estado;
+            actos de otros participantes;
+            ser golpeado por personas, equipo o escombros que caen;
+            o caer sobre otra persona, repisa u otra protuberancia.</item>
+        <item name="p_2_e">Entiendo que el equipo de escalada, instalaciones o agarres pueden resultar dañados o defectuosos. Si se daña algún agarre o parte de la instalación BOULDER CORP climbing mientras lo estoy usando, se lo comunicaré al personal de BOULDER CORP climbing a cargo para que evalúen el daño.</item>
+        <item name="p_2_f">He leído y acepto cumplir con las reglas que se enumeran a continuación en esta exención, así como con otras reglas que pueden estar publicadas en todas las instalaciones o sitios de escalada.</item>
+        <item name="p_2_g">Reconozco que cualquier instrucción de escalada que pueda recibir de las Partes eximidas es de naturaleza general y puede que no se aplique a todas las condiciones de escalada. Entiendo que cualquier instrucción que reciba no me prepara para escalar sin supervisión.</item>
+    </string-array>
+    <string-array name="contract_3">
+        <item name="contract_title_3">REGLAS BOULDERERAS</item>
+        <item name="p_3_a">Todos deben registrarse en la recepción y pasar por una orientación antes de usar las instalaciones si así lo desean.</item>
+        <item name="p_3_b">Todos deben firmar un deslinde de exención de responsabilidad. Cualquier persona menor de 18 años debe tener la exención de responsabilidad firmada por un padre o tutor legal.</item>
+        <item name="p_3_c">Al escalar, se recomienda un mínimo de una persona por escalador para ayudar a “espotear” o redirigir a un escalador que cae. Los escaladores reconocen que el Boulder es muy peligroso. Es posible que el uso de un observador no evite lesiones. Los observadores comprenden que pueden lesionarse al "espotear" o redirigir a un escalador que cae.</item>
+        <item name="p_3_d">Los padres y tutores legales de los huéspedes menores de 13 años deben supervisar directamente a sus hijos / invitados en todo momento.</item>
+        <item name="p_3_e">No trepe por encima de la estructura del muro de escalada. Solo los miembros del personal pueden estar detrás del muro de escalada.</item>
+        <item name="p_3_f">No se permiten artículos personales en superficies acolchadas. Las botellas de agua, bolsas, etc., deben almacenarse en los cubículos otorgados por BOULDER CORP climbing.</item>
+        <item name="p_3_g">BOULDER CORP climbing no es responsable por artículos perdidos o robados.</item>
+        <item name="p_3_h">No se permite escalar bajo la influencia de sustancias intoxicantes o controladas, incluido el alcohol o las drogas de cualquier tipo, independientemente de si fueron recetadas por un médico o no.</item>
+        <item name="p_3_i">Nos reservamos el derecho de agregar a la lista anterior lo que consideremos apropiado en un esfuerzo por brindar un ambiente seguro para nuestros clientes.</item>
+    </string-array>
+    <string-array name="contract_4">
+        <item name="contract_title_4">ASUNCIÓN DE RIESGO Y LIBERACIÓN DE RESPONSABILIDAD</item>
+        <item name="p_4_a">De sufrir cualquier tipo de lesión, daño o accidente, lo haré del conocimiento de BOULDER CORP Climbing.
+            De requerir atención médica, sin responsabilidad alguna del gimnasio BOULDER CORP Climbing, acepto que se me apliquen primeros auxilios y en caso de ser necesario me trasladen a un centro hospitalario
+            y que los gastos que llegasen a generarse serán cubiertos es su totalidad por el suscrito. </item>
+        <item name="p_4_b">ASUMO EXPRESAMENTE TODOS LOS RIESGOS CONOCIDOS Y DESCONOCIDOS ASOCIADOS CON MI PARTICIPACIÓN O
+            EL USO DE CUALQUIERA Y TODAS LAS INSTALACIONES O ACTIVIDADES, INCLUYENDO LOS RIESGOS DE LESIONES, PARÁLISIS O MUERTE. MI PARTICIPACIÓN Y USO ES PURAMENTE VOLUNTARIO Y ELIJO HACERLO A PESAR DE LOS RIESGOS. ACEPTO LIBERAR PARA SIEMPRE A BOULDER CORP CLIMBING Y A CUALQUIERA DE SUS RESPECTIVOS MIEMBROS, FUNCIONARIOS, DIRECTORES, EMPLEADOS, AGENTES, REPRESENTANTES, ACCIONISTAS, ASÍ COMO CUALQUIER OTRA PERSONA, CORPORACIÓN, PROPIETARIOS Y PROPIETARIOS, DE Y CONTRA TODOS LOS DAÑOS, ACCIONES, RECLAMOS Y RESPONSABILIDADES, SEAN CONOCIDOS O DESCONOCIDOS, ANTICIPADOS, SOSPECHADOS O NO SOSTENIDOS, RELACIONADOS CON CUALQUIER ACTIVIDAD O EVOLUCIÓN DE EVOLUCIÓN O DERIVADOS DE BOULDER CORP CLIMBING O CUALQUIERA DE LAS PARTES LIBERADAS.</item>
+    </string-array>
+
+    <string-array name="contract_6">
+        <item name="contract_title_6">ACUERDO DE INDEMNIZACIÓN</item>
+        <item name="p_6_b">Acepto que esta responsiva continuará vigente a perpetuidad o hasta que se cancele o modifique mediante acuerdo escrito, de modo que cada vez que use las instalaciones o participe en cualquier actividad, esta carta responsiva se mantendrá en vigencia.</item>
+        <item name="p_6_c">Si el participante es un menor: Declaro ser el padre o tutor legal del menor mencionado en esta carta y doy mi consentimiento para que utilice las instalaciones y/o participe en actividades dentro de las mismas. En consideración a BOULDER CORP Climbing que permite que el menor mencionado participe en actividades y/o use la instalación, reconozco que estoy familiarizado con, y acepto estar sujeto a los términos y condiciones del presente acuerdo. Yo, en mi nombre y del menor mencionado en al presente, acepto renunciar, liberar, indemnizar y eximir de responsabilidad a BOULDER CORP Climbing de y de todas las reclamaciones, deudas, gastos, demandas, daños y responsabilidades de todo tipo y naturaleza, conocidos o desconocidos, en derecho o equidad, que dicho menor tenga o pueda tener, que surjan o de alguna manera estén relacionados con la participación del mismo en actividades relacionadas con BOULDER CORP Climbing. Además, acepto indemnizar, mantener indemne y defender a BOULDER CORP Climbing de y en contra de cualquier pérdida, daño, responsabilidad, gasto, costo y/o honorarios de abogados, incluyendo cualquiera de los presentados por, en nombre de, relacionados o causados de cualquier otro modo por el menor mencionado en la presente.</item>
+        <item name="p_6_d">Declaro que los datos personales proporcionados en la solicitud son fidedignos.</item>
+        <item name="p_6_e">ADVERTENCIA: Una persona que falsifique su firma a continuación o tergiversa la capacidad (como padre o tutor legal, por ejemplo) en la que firma se considerará FALSIFICADOR y, además de otras sanciones civiles y penales, se considerará que ha aceptado indemnizar a las Partes Exoneradas de y contra cualquier reclamo de pérdida afirmado por o en nombre de una persona cuya visita al gimnasio fue facilitada por esa falsificación.</item>
+        <item name="p_6_f">HE LEÍDO DETENIDAMENTE ESTE ACUERDO Y ENTIENDO COMPLETAMENTE SU CONTENIDO E IMPLICACIONES.</item>
+    </string-array>
+    <string-array name="contract_7">
+        <item name="contract_title_7">CONSENTIMIENTO DE FIRMA ELECTRÓNICA</item>
+        <item name="p_7_a">Al utilizar esta aplicación, está dando su consentimiento para el uso de su firma electrónica en lugar de una firma original en papel. Después del consentimiento, puede, previa solicitud, obtener una copia digital. No se cobrará ninguna tarifa por dicha copia y no se requiere ningún hardware o software especial para verla. Su acuerdo de usar una firma electrónica con nosotros para cualquier documento continuará hasta el momento en que nos notifique por escrito que ya no desea usar una firma electrónica. No hay ninguna sanción por retirar su consentimiento. Siempre debe asegurarse de que tengamos una dirección de correo electrónico actual para comunicarnos con usted con respecto a cualquier cambio, si es necesario.</item>
+    </string-array>
+
+    <string name="contract_title_2">RECONOCIMIENTO DE RIESGOS</string>
+    <string name="contract_title_7">CONSENTIMIENTO DE FIRMA ELECTRÓNICA</string>
+    <string name="p_7_a">Al marcar aquí, está dando su consentimiento para el uso de su firma electrónica en lugar de una firma original en papel. En su lugar, tiene derecho a solicitar que firme una copia impresa. Al firmar aquí, renuncia a ese derecho. Después del consentimiento, puede, previa solicitud por escrito, obtener una copia impresa de un registro electrónico. No se cobrará ninguna tarifa por dicha copia y no se requiere ningún hardware o software especial para verla. Su acuerdo de usar una firma electrónica con nosotros para cualquier documento continuará hasta el momento en que nos notifique por escrito que ya no desea usar una firma electrónica. No hay ninguna sanción por retirar su consentimiento. Siempre debe asegurarse de que tengamos una dirección de correo electrónico actual para comunicarnos con usted con respecto a cualquier cambio, si es necesario.</string>
+
+
+
+
+    <!--- Recomendaciones -->
+    <string-array name="recomendaciones">
+        <item name="recomen_1">RECOMENDACIONES BOULDERERAS</item>
+        <item name="recomen_2">Mantente alejado de las colchonetas a menos que te encuentres escalando o procura mantener una distancia segura de 2 metros de la pared si no estas escalando, sin correr.</item>
+        <item name="recomen_3">No debe haber ninguna persona/animal/objeto en las colchonetas mientras que alguien se encuentra escalando.</item>
+        <item name="recomen_4">Los ojos bien abiertos y mirando a la persona(s) que está escalando. Los escaladores pueden caer en cualquier momento y sin previo aviso. </item>
+        <item name="recomen_5">Utiliza las gatas para escalar mientras te encuentres en la pared.</item>
+        <item name="recomen_6">Si un escalador está en la pared, déjalo terminar antes de comenzar.</item>
+        <item name="recomen_7">No comiences una ruta que se cruza con la ruta de otro escalador ya en la pared.</item>
+        <item name="recomen_5">Procura no traer ningún objeto en tus bolsillos, y deja toda tu joyería/pulseras/etc... abajo</item>
+        <item name="recomen_6">Manten los cepillos lejos de las paredes, mínimo a 2 metros.</item>
+        <item name="recomen_7">Si alguien llega al top o se cae en la ruta... ¡es tu oportunidad!</item>
+        <item name="recomen_5">No cepilles debajo de un escalador en acción.</item>
+        <item name="recomen_6">Escalada en grupo: cuidense mutuamente y verifiquen que la zona de caida este libre.</item>
+        <item name="recomen_7">Ayuda a promover un entorno de Boulder seguro al compartir consejos de seguridad con las personas que te rodean.</item>
+    </string-array>
+    <string-array name="recomendaciones_caida">
+        <item name="recomencaida_1">PARA UNA CAÍDA SEGURA</item>
+        <item name="recomencaida_2">Baja siempre que sea posible, utilizando los agarres.</item>
+        <item name="recomencaida_1">Aterriza con ambos pies de manera uniforme para distribuir el impacto: colapsa las rodillas y las caderas para rodar sobre tus pompas como un oso panda.</item>
+        <item name="recomencaida_1">NUNCA aterrices con las piernas rectas.</item>
+        <item name="recomencaida_1">SIEMPRE evita la rotación al saltar o al caer.</item>
+        <item name="recomencaida_1">Deja que los colchones absorban tu impacto.</item>
+        <item name="recomencaida_1">Practica caer desde una altura baja, para agarrar confianza primero ;)</item>
+    </string-array>
+    <string-array name="objetos_perdidos">
+        <item name="objetos_1">BAÚL DE LOS OBJETOS PERDIDOS</item>
+        <item name="objetos_2">Aunque no los guardamos realmente en un baúl ;) ... si guardamos tus cosas olvidadas, si olvidaste algo ¡llámanos de inmediato! Conservamos tus cosas todo el tiempo que nos sea posible.</item>
+    </string-array>
+    <string-array name="reglas_bouldercitos">
+        <item name="bouldercitos_1">REGLAS PARA LOS BOULDERCITOS</item>
+        <item name="bouldercitos_2">Los bouldercitos deben ser supervisados en TODO momento.</item>
+        <item name="bouldercitos_1">De 8 a 13 años es obligatorio que como mínimo haya un supervisor por cada dos bouldercitos</item>
+        <item name="bouldercitos_1">TODOS los bouldercitos menores a 13 años deben estar al alcance de su supervisor ¡en todo momento!</item>
+        <item name="bouldercitos_1">SI ESTÁS ESCALANDO, NO ESTÁS SUPERVISANDO, tu bouldercito no puede quedarse solo mientras escalas.</item>
+    </string-array>
+    <string-array name="aceptacion_riesgos">
+        <item>ACEPTACIÓN DE RIESGOS</item>
+        <item>TODO escalador deberá firmar la responsiva antes de subir a cualquier boulder.</item>
+        <item>Los menores de 18 años deben tener firmada la responsiva por un padre o tutor legal.</item>
+    </string-array>
+
+
+    <!-- Just numbers for spinner -->
+    <string-array name="simple_numbers">
+        <item>-</item><item>1</item><item>2</item><item>3</item><item>4</item><item>5</item>
+        <item>6</item><item>7</item><item>8</item><item>9</item>
+    </string-array>
+
+    <!-- Months -->
+    <string name="M01">Enero</string>
+    <string name="M02">Febrero</string>
+    <string name="M03">Marzo</string>
+    <string name="M04">Abril</string>
+    <string name="M05">Mayo</string>
+    <string name="M06">Junio</string>
+    <string name="M07">Julio</string>
+    <string name="M08">Agosto</string>
+    <string name="M09">Septiembre</string>
+    <string name="M10">Octubre</string>
+    <string name="M11">Noviembre</string>
+    <string name="M12">Diciembre</string>
+    <string name="of_string">de</string>
+    <string name="txt_despedida">Esperamos que disfrutes de tu escalada... Recuerda seguirnos en Instagram como @bouldercorpmx. ¡Buenos pegues!</string>
+    <string name="country">País</string>
+    <string name="aviso_datos">Aviso de Uso de Datos</string>
+    <string name="politicas"> Políticas de Privacidad</string>
+    <string name="cuantos_niños">¿De cuantos estamos hablando?</string>
+    <string name="regresar">Regresar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="noPermissions">Favor de aceptar los permisos</string>
+    <string name="contract_header_1">"Yo: "</string>
+    <string name="contract_header_2">"nacido el: "</string>
+    <string name="contract_header_3">en mi carácter de cliente, mayor de edad</string>
+    <string name="contract_header_4">"y/o como padre o tutor del/los menor(es) a mi a cargo: "</string>
+
+
+</resources>

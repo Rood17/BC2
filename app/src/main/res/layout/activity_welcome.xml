@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RegistrationForm">
+    <!-- Main Layout -->
+    <LinearLayout
+        android:id="@+id/main_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background1"
+        android:screenOrientation="landscape"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="16dp">
+
+        <!-- Language Buttons Layout -->
+        <RelativeLayout
+            android:id="@+id/form_1_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_weight="2"
+            android:layout_marginVertical="@dimen/margin_ver_activity"
+            android:layout_marginHorizontal="@dimen/margin_hor_activity"
+
+            android:background="@color/white"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/form_heading_welcome"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/padding_regular"
+                android:text="@string/welcome_head"
+                android:background="@color/grey"
+                android:textAppearance=
+                    "@android:style/TextAppearance.DeviceDefault.Small.Inverse"
+                android:textColor="@android:color/white"
+                android:textStyle="bold" />
+
+
+            <ScrollView
+                android:id="@+id/form_scroll"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/form_heading_welcome" >
+
+                <LinearLayout
+                    android:id="@+id/contract_wrapper"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <LinearLayout
+                        android:id="@+id/welcome"
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="15dp">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:fontFamily="@font/poppins_light"
+                            android:textSize="@dimen/header"
+                            android:padding="@dimen/padding_regular"
+                            android:layout_marginTop="20dp"
+                            android:text="@string/welcome"/>
+                        <LinearLayout
+                            android:id="@+id/welcome_txt"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"/>
+
+                    </LinearLayout>
+                    <LinearLayout
+                        android:id="@+id/recomendations_ly"
+                        android:orientation="vertical"
+                        android:layout_marginHorizontal="@dimen/padding_regular"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        />
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_marginHorizontal="@dimen/padding_regular"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="50dp"
+                        />
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_marginHorizontal="@dimen/padding_regular"
+                        android:layout_height="1px"
+                        android:background="@android:color/black"/>
+                    <LinearLayout
+                        android:id="@+id/contractSign"
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="@dimen/padding_regular"
+                        android:layout_marginHorizontal="30dp">
+
+                        <CheckBox
+                            android:id="@+id/checkReglamento"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:buttonTint="@color/teal_700"
+                            android:textSize="12sp"
+                            android:onClick="onCheckboxClicked"
+                            android:text="@string/reglamentoOk" />
+
+                        <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+                        <CheckBox
+                            android:id="@+id/checkPoliticas"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:textSize="12sp"
+                            android:buttonTint="@color/teal_700"
+                            android:onClick="onCheckboxClicked"
+                            android:text="@string/check_politicas" />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/teal_700"
+                            android:textSize="12sp"
+                            android:onClick="goToPoliticas"
+                            android:text="@string/politicas"/>
+                    </LinearLayout>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/action_btn_wrapper"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="end">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="@dimen/action_btn_margin"
+                            android:background="#FFFFFF"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:padding="@dimen/padding_regular">
+
+                            <Button
+                                android:id="@+id/ActionButtonContinue"
+                                android:layout_width="55dp"
+                                android:layout_height="55dp"
+                                android:layout_marginVertical="5dp"
+                                android:background="@drawable/circle"
+                                android:elevation="10dp"
+                                android:fontFamily="@font/poppins_light"
+                                android:text="@string/action_btn_text"
+                                android:textSize="@dimen/act_btn_txt_size"
+                                android:textStyle="bold"
+                                app:backgroundTint="@color/black"
+
+                                />
+
+                            <TextView
+                                android:id="@+id/textView2"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@+id/welcomeActionButton"
+                                android:layout_alignParentEnd="true"
+                                android:layout_alignParentRight="true"
+                                android:fontFamily="@font/poppins_light"
+                                android:text="@string/aceptar" />
+
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </ScrollView>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

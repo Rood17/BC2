@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context=".RegistrationForm">
+<!-- Main Layout -->
+<LinearLayout
+    android:id="@+id/main_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background1"
+    android:screenOrientation="landscape"
+    app:layout_constraintStart_toStartOf="parent"
+    tools:layout_editor_absoluteY="16dp">
+
+    <!-- Language Buttons Layout -->
+    <RelativeLayout
+        android:id="@+id/form_1_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_weight="2"
+        android:layout_marginVertical="@dimen/margin_ver_activity"
+        android:layout_marginHorizontal="@dimen/margin_hor_activity"
+
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/form_heading_review"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/grey"
+            android:padding="@dimen/padding_regular"
+            android:text="@string/form_title"
+            android:textAppearance="@android:style/TextAppearance.DeviceDefault.Small.Inverse"
+            android:textColor="@color/bc_launcher_2_background"
+            android:textStyle="bold" />
+
+
+        <ScrollView
+            android:id="@+id/form_scroll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/form_heading_review" >
+
+            <LinearLayout
+                android:id="@+id/contract_wrapper"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:id="@+id/contract"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="15dp"/>
+                <LinearLayout
+                    android:id="@+id/signImgWrapper"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="15dp">
+                    <ImageView
+                        android:id="@+id/imgSign"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:id="@+id/contractSign"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="5dp"
+                    />
+                <LinearLayout
+                    android:id="@+id/contractDigitalResp"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="15dp"
+                    />
+
+                <LinearLayout
+                    android:id="@+id/action_btn_wrapper"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="end">
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:padding="@dimen/padding_regular"
+                        android:layout_margin="@dimen/action_btn_margin"
+                        android:gravity="center">
+
+                        <com.google.android.material.floatingactionbutton.FloatingActionButton
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:clickable="true"
+                            android:onClick="showSignPad"
+                            app:backgroundTint="#EA1818"
+                            app:srcCompat="@drawable/ic_baseline_edit_24"
+                            tools:ignore="VectorDrawableCompat" />
+                        <TextView
+                            android:id="@+id/signTxt"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/welcomeActionButton"
+                            android:layout_alignParentEnd="true"
+                            android:layout_alignParentRight="true"
+                            android:text="@string/sign" />
+
+
+                        <Button
+                            android:id="@+id/signBtn"
+                            android:layout_width="55dp"
+                            android:layout_height="55dp"
+                            android:textStyle="bold"
+                            android:layout_marginVertical="5dp"
+                            android:background="@drawable/circle"
+                            android:text="@string/action_btn_text"
+                            android:textSize="@dimen/act_btn_txt_size"
+                            app:backgroundTint="@color/black"
+                            android:elevation="10dp"
+                            android:onClick="signDoc"
+
+                            />
+
+
+
+                        <TextView
+                            android:id="@+id/signTxt2"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/welcomeActionButton"
+                            android:layout_alignParentEnd="true"
+                            android:layout_alignParentRight="true"
+                            android:text="@string/aceptar" />
+
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+
+
+
+            </LinearLayout>
+
+        </ScrollView>
+
+
+
+    </RelativeLayout>
+
+
+
+
+</LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

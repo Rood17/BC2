@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RegistrationForm">
+    <!-- Main Layout -->
+    <LinearLayout
+        android:id="@+id/main_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background1"
+        android:screenOrientation="landscape"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="16dp">
+
+        <!-- Language Buttons Layout -->
+        <RelativeLayout
+            android:id="@+id/form_1_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_weight="2"
+            android:layout_marginVertical="@dimen/margin_ver_activity"
+            android:layout_marginHorizontal="@dimen/margin_hor_activity"
+
+            android:background="@color/white"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/form_heading_data"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/padding_regular"
+                android:text="@string/use_data"
+                android:background="@color/grey"
+                android:textAppearance=
+                    "@android:style/TextAppearance.DeviceDefault.Small.Inverse"
+                android:textColor="@android:color/white"
+                android:textStyle="bold" />
+
+
+            <ScrollView
+                android:id="@+id/form_scroll"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/form_heading_data" >
+
+                <LinearLayout
+                    android:id="@+id/contract_wrapper"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <LinearLayout
+                        android:id="@+id/data_notice"
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="@dimen/padding_regular">
+
+                    </LinearLayout>
+
+
+                    <FrameLayout
+                        android:id="@+id/lang_layout"
+                        android:layout_width="match_parent"
+                        android:layout_height="100dp"
+                        android:layout_alignParentRight="true"
+                        android:layout_marginTop="20dp"
+                        android:layout_marginRight="0dp"
+                        android:layout_marginBottom="20dp"
+                        android:gravity="end"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/en_btn_txt"
+                            android:layout_width="55dp"
+                            android:layout_height="55dp"
+                            android:layout_gravity="end"
+                            android:elevation="16dp"
+                            android:layout_marginVertical="25dp"
+                            android:layout_marginHorizontal="25dp"
+                            android:paddingHorizontal="17.6dp"
+                            android:paddingVertical="16dp"
+                            android:textColor="@color/white"
+                            android:text="BC"
+                            android:textSize="16dp" />
+
+                        <com.google.android.material.floatingactionbutton.FloatingActionButton
+                            android:id="@+id/closeDataNot"
+                            android:layout_width="55dp"
+                            android:layout_height="55dp"
+                            android:layout_gravity="end"
+                            android:layout_marginHorizontal="25dp"
+                            android:layout_marginVertical="25dp"
+                            android:backgroundTint="@color/black"
+                            android:clickable="true"
+                            app:backgroundTint="#090909" />
+                        <TextView
+                            android:id="@+id/btn_nav_txt"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="end"
+                            android:layout_marginTop="79dp"
+                            android:layout_marginHorizontal="20dp"
+                            android:textColor="@color/black"
+                            android:text="@string/regresar"
+                            android:textSize="16dp" />
+
+
+                    </FrameLayout>
+
+                </LinearLayout>
+
+            </ScrollView>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

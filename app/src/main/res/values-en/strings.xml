@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BoulderCorpRegistration</string>
+    <string name="register_btn">Register</string>
+    <string name="aviso_datos">Data User Advice</string>
+    <string name="politicas">Privacy Policies</string>
+    <string name="pdfCreate">Document signed successfully</string>
+    <string name="form_error_correct">"Please fill the form correctly "</string>
+    <string name="form_email_correct">Enter a valid email</string>
+    <string name="error_valid_field">Required field</string>
+    <string name="lessthan9">Maximum 9 minors in charge</string>
+    <string name="loading">Loading. Please wait ...</string>
+    <string name="use_data">Data Use Notice</string>
+    <string name="welcome_head">"Recommendations \"Bouldereras\" "</string>
+    <string name="welcome">Welcome!</string>
+    <string name="txt_bienvenida">"At BOULDER CORP we want you to feel at home, any questions or concerns you have, get closer to our staff, ... We are here to serve you! "</string>
+    <string name="check_politicas">"I have read and agree to the "</string>
+    <string name="reglamentoOk">"I agree and promise to follow the regulations / recommendations of BOULDER CORP. "</string>
+    <string name="form_title">Register</string>
+    <string name="enter_name_hint">"Enter your name (s) "</string>
+    <string name="enter_lastanme">"Write your last name "</string>
+    <string name="enter_id_number">Enter Official ID</string>
+    <string name="fecha_nac">"Date of Birth "</string>
+    <string name="enter_email">Write your mail</string>
+    <string name="enter_birth_date">"INSERT BIRTHDAY DATE "</string>
+    <string name="form_title_1">ENTER YOUR PERSONAL DATA</string>
+    <string name="form_title_2">REGISTRATION FOR MINORS</string>
+    <string name="form_title_3">WHO CAN WE CALL IN CASE OF AN EMERGENCY?</string>
+    <string name="resp_enfants">Are you in charge of a minor?</string>
+    <string name="parient_hint">Friend / Relative Name</string>
+    <string name="childs_names">Child\'s full name</string>
+    <string name="cell_num">Cell phone number</string>
+    <string name="reg_menor">Minors registration</string>
+    <string name="form_sign">Sign</string>
+    <string name="thanks">Thanks!</string>
+    <string name="final_btn">Finalize</string>
+    <string name="goodbye_txt">We hope you enjoy your climb ... Good hits!</string>
+    <string name="btn_continue">Continue</string>
+    <string name="introduceFirma">Enter your signature</string>
+    <string name="sign">Sign</string>
+    <string name="clear">Erase</string>
+    <string name="contract_title_2">RISK RECOGNITION</string>
+    <string name="contract_title_7">ELECTRONIC SIGNATURE CONSENT</string>
+    <string name="p_7_a">By checking here, you are consenting to the use of your electronic signature instead of an original paper signature. Instead, you have the right to request that you sign a printed copy. By signing here, you waive that right. After consent, you can, upon written request, obtain a hard copy of an electronic record. No fee will be charged for such a copy and no special hardware or software is required to view it. Your agreement to use an electronic signature with us for any document will continue until such time as you notify us in writing that you no longer wish to use an electronic signature. There is no penalty for withdrawing your consent. You should always ensure that we have a current email address to contact you regarding any changes, if necessary.</string>
+    <string name="M01">January</string>
+    <string name="M02">Feb</string>
+    <string name="M03">March</string>
+    <string name="M04">April</string>
+    <string name="M05">May</string>
+    <string name="M06">Jun</string>
+    <string name="M07">July</string>
+    <string name="M08">August</string>
+    <string name="M09">September</string>
+    <string name="M10">October</string>
+    <string name="M11">November</string>
+    <string name="M12">December</string>
+    <string name="of_string">of</string>
+    <string name="country">Country</string>
+    <string name="txt_despedida">We hope you enjoy your climb ... Remember to follow us on Instagram as @bouldercorpmx. Good hits!</string>
+    <string name="obligatory_field">Please, fill all the required fields</string>
+    <string name="cuantos_niños">How many?</string>
+    <string name="regresar">Go Back</string>
+    <string name="aceptar">Accept</string>
+
+    <!-- CONTRACTS -->
+    <!-- Politicas de datos -->
+    <string-array name="aviso_datos">
+        <item name="aviso_1">Thank you for your interest in Boulder Corp.
+        For us, your privacy and comfort is very
+        important and we want you to know, through this Privacy Notice,
+        how and for what we use the information of our visitors.</item>
+        <item name="aviso_2">Boulder Corp, climbing, is committed to respecting your privacy
+            and the Personal Data Protection Law.
+        All information provided that is considered personal data,
+        according to the Law, it will be duly and carefully treated and preserved under
+        our responsibility in computer systems, which may also be guarded
+        in computer systems located in the cloud.</item>
+        <item name="aviso_3">The treatment and use of your personal data by Boulder Corp, climbing,
+        It will be carried out in accordance with the conditions and purposes of this Notice,
+        through this contract / form application.</item>
+        <item name="aviso_4">In case it is required to use your personal data for different purposes
+        to those indicated in this Notice, we will contact you in order to request your authorization.</item>
+        <item name="aviso_5">We request your information in order to identify you, locate you, communicate,
+        contact you, send you information,
+        comply with obligations that we have contracted with you and create databases
+        that will be used to offer you products and / or services from BoulderCorp, climbing,
+        that may be of interest to you and / or to third parties.</item>
+        <item name="aviso_6">The use of personal and sensitive data will be directly related
+        with the type of interaction you have with Boulder Corp, climbing, whether commercial, labor,
+        civil, commercial or of any other nature.</item>
+        <item name="aviso_7">The timing of the handling of personal data and / or sensitive data will be indefinite
+        from the date they were provided.</item>
+        <item name="aviso_8">Personal data that we request directly and through our application page:
+        a) Name b) Email c) Telephone d) Date of birth e) Emergency contact details
+        Once you deliver to Boulder Corp, upload your personal data,
+        These will be kept in different secure media, whose access will only be
+        limited to natural and / or legal persons with whom Boulder Corp, climbing,
+        have any relationship.</item>
+        <item name="aviso_9">We will have the appropriate security measures to protect the use of your personal data
+        by unauthorized third parties. In case any authority is required,
+        Your personal data may be made available to them, in strict compliance with the Law.</item>
+        <item name="aviso_10">The treatment of your personal data, which you have made available to Boulder Corp, climbing,
+        may be carried out in accordance with these terms and conditions,
+        so from this moment it is understood that you expressly authorize Boulder Corp, climbing,
+        for its use, as long as you don\'t express your opposition through any of the means indicated by the Law.</item>
+        <item name="aviso_11">You have the right to access your personal data and the details of their treatment,
+        as well as correct them, if they are inaccurate or incomplete;
+        cancel them when you consider that they are not required for any of the purposes indicated in this Notice.
+        If they are being used for non-consensual purposes or if the contractual relationship has ended
+        or service can direct an opposition request to the counter of Boulder Corp, climbing or through social networks.</item>
+        <item name="aviso_12">We promise not to process this data for purposes other than the contract or
+        specific agreement for which they have been provided with your consent.</item>
+        <item name="aviso_13">We reserve the right to make,
+        at any time, modifications and / or updates to this Notice,
+        according to new legislation, internal policies or new requirements for the offer
+        of our services or products.</item>
+    </string-array>
+
+    <!-- Contract Array -->
+    <string-array name="contract_1">
+        <item name="contract_title_1">DISCLAIMER</item>
+        <item>declare voluntarily, freely and spontaneously, that I wish to use each and every one of the facilities
+        from the BOULDER CORP Climbing Gym and / or participate in other
+        activities anywhere, whether indoors or outdoors, that are sponsored
+        by or involving BOULDER CORP climbing. In consideration of BOULDER CORP climbing that I
+        allows you to use the Facility and / or allow me to participate in activities, I have agreed to run
+        this Agreement for Release of Liability, Assumption of Risk, Indemnification and
+        Participation (the "Boundary").</item>
+        <item>From me, from my family members, administrators and legal representatives
+        I declare that I am physically and mentally capable of participating in all BOULDER CORP
+            climbing activities. and I assign the following:</item>
+
+    </string-array>
+    <string-array name="contract_2">
+        <item name="contract_title_2">RISK RECOGNITION</item>
+        <item>I acknowledge that rock climbing and / or bouldering either indoors and / or
+        outdoors is dangerous, including but not limited to the hazards associated with climbing,
+        descend, fall and "spear". I understand that no amount of care, caution,
+        Training or experience can eliminate the hazards associated with these and other
+        related activities.</item>
+        <item name="p_2_d">I recognize the dangers of climbing, including, but not limited to,
+            falls due to improperly placed equipment, loose or falling equipment or material;
+            falling due to sudden movement of grabs or grips in poor condition;
+            acts of other participants;
+            being hit by falling people, equipment, or debris;
+            or fall on another person, shelf, or other protrusion.</item>
+        <item name="p_2_e">I understand that climbing equipment, facilities or grips may be damaged
+            or defective. If any grip or part of the BOULDER CORP climbing installation is damaged while
+            I am using it, I will communicate it to the BOULDER CORP climbing staff in charge so they can evaluate the damage.</item>
+        <item name="p_2_f">I have read and agree to abide by the rules listed below at
+            this exemption, as well as other rules that may be posted in all facilities
+            or climbing sites.</item>
+        <item name="p_2_g">I acknowledge that any climbing instructions that may
+            receive from Released Parties is general in nature and may not be
+            apply to all climbing conditions. I understand that any instruction
+            that I receive does not prepare me to climb unsupervised.</item>
+    </string-array>
+    <string-array name="contract_3">
+        <item name="contract_title_3">Bouldering Rules</item>
+        <item name="p_3_a">Everyone must sign in at the front desk and go through an orientation
+            before using the facilities if they wish.</item>
+        <item name="p_3_b">Everyone must sign a disclaimer.
+            Anyone under the age of 18 must have the liability exemption
+            signed by a parent or legal guardian..</item>
+        <item name="p_3_c">When climbing, a minimum of one person per climber is recommended to
+            help "spot" or redirect a falling climber. Climbers recognize that
+            Boulder is very dangerous. Using a spotter may not prevent injury.
+            Observers understand that they can be injured by "spouting" or redirecting a falling climber.</item>
+        <item name="p_3_d">Parents and legal guardians of guests under the age of 13 must
+            directly supervise your children / guests at all times.</item>
+        <item name="p_3_e">Don\'t climb over the climbing wall structure.
+            Only staff members can be behind the climbing wall.</item>
+        <item name="p_3_f">
+Personal items are not allowed on padded surfaces.
+            Water bottles, bags, etc., must be stored in the cubicles provided by BOULDER CORP climbing.</item>
+        <item name="p_3_g">BOULDER CORP climbing is not responsible for lost or stolen items.</item>
+        <item name="p_3_h">
+Climbing under the influence of intoxicating substances or
+            controlled, including alcohol or drugs of any kind, regardless of
+            whether they were prescribed by a doctor or not.</item>
+        <item name="p_3_i">We reserve the right to add to the above list what
+            we deem appropriate in an effort to provide a safe environment for our customers.</item>
+    </string-array>
+    <string-array name="contract_4">
+        <item name="contract_title_4">ASSUMPTION OF RISK AND RELEASE OF LIABILITY</item>
+        <item name="p_4_a">If I suffer any type of injury, damage or accident, I will inform BOULDER CORP Climbing.
+            If I require medical attention, without any responsibility from the BOULDER CORP Climbing gym, I accept that first aid will be applied to me and if necessary I will be transferred to a hospital center
+            and that the expenses that are generated will be fully covered by the undersigned.</item>
+        <item name="p_4_b">I EXPRESSLY ASSUME ALL KNOWN AND UNKNOWN RISKS ASSOCIATED WITH MY PARTICIPATION OR
+            THE USE OF ANY AND ALL FACILITIES OR ACTIVITIES, INCLUDING THE RISKS OF INJURY, PARALYSIS OR DEATH.
+            MY PARTICIPATION AND USE IS PURELY VOLUNTARY AND I CHOOSE TO DO SO NOTWITHSTANDING RISKS.
+            I AGREE TO RELEASE BOULDER CORP CLIMBING AND ANY OF ITS RESPECTIVE MEMBERS FOREVER,
+            OFFICIALS, DIRECTORS, EMPLOYEES, AGENTS, REPRESENTATIVES, SHAREHOLDERS, AS WELL AS ANY OTHER PERSON,
+            CORPORATION, OWNERS AND OWNERS, FROM AND AGAINST ALL DAMAGES, ACTIONS, CLAIMS AND LIABILITIES,
+            WHETHER KNOWN OR UNKNOWN, IN ADVANCE, SUSPECTED OR NON-SUSTAINED, RELATED TO ANY ACTIVITY OR
+            EVOLUTION OF EVOLUTION OR DERIVATIVES OF BOULDER CORP CLIMBING OR ANY OF THE RELEASED PARTS.</item>
+    </string-array>
+
+    <string-array name="contract_6">
+        <item name="contract_title_6">COMPENSATION AGREEMENT</item>
+        <item name="p_6_b">I agree that this responsive will continue in force in perpetuity or until
+            cancel or modify by written agreement, so that each time you use the facilities or
+            participate in any activity, this responsive letter will remain in effect.</item>
+        <item name="p_6_c">If the participant is a minor: I declare that I am the parent or legal guardian of the
+            minor mentioned in this letter and I give my consent to use the facilities
+            and / or participate in activities within them. In consideration of BOULDER CORP Climbing
+            that allows the aforementioned minor to participate in activities and / or use the facility, I acknowledge
+            that I am familiar with, and agree to be bound by the terms and conditions of this agreement.
+            I, in my name and the minor mentioned in the present, agree to resign, release, indemnify and exempt
+            of responsibility to BOULDER CORP Climbing of and of all claims, debts, expenses, demands,
+            damages and responsibilities of all kinds and nature, known or unknown, in law or equity, that
+            said minor has or may have, that arise or are in any way related to the participation of the
+            same in activities related to BOULDER CORP Climbing. Furthermore, I agree to indemnify, hold harmless and
+            defend BOULDER CORP Climbing from and against any loss, damage, liability, expense, cost and / or
+            attorneys fees, including any of those presented by, on behalf of, related to or caused by
+            any other way by the minor mentioned herein.</item>
+        <item name="p_6_d">I declare that the personal data provided in the application are accurate.</item>
+        <item name="p_6_e">WARNING: A person forging their signature below or misrepresenting
+            the capacity (as a parent or legal guardian, for example) in which you sign will be considered FALSIFIER and,
+            In addition to other civil and criminal penalties, it will be considered that you have agreed to compensate the
+            Released Parties from and against any claim of loss asserted by or on behalf of a person
+            whose visit to the gym was facilitated by that forgery.</item>
+        <item name="p_6_f">I HAVE READ THIS AGREEMENT CAREFULLY AND FULLY UNDERSTAND ITS CONTENT AND IMPLICATIONS.</item>
+    </string-array>
+    <string-array name="contract_7">
+        <item name="contract_title_7">ELECTRONIC SIGNATURE CONSENT</item>
+        <item name="p_7_a">By using this application, you are consenting to the use of your
+            electronic signature instead of an original paper signature. After consent, you can,
+            Upon request, obtain a digital copy. No fee will be charged for such copying and
+            no special hardware or software is required to view it. Your agreement to use a signature
+            electronic communication with us for any document will continue until such time as you notify us by
+            writing that you no longer want to use an electronic signature. There is no penalty for withdrawing your consent.
+            You should always ensure that we have a current email address to communicate with
+            you regarding any changes, if necessary.</item>
+    </string-array>
+
+
+    <!--- Recomendaciones -->
+    <string-array name="recomendaciones">
+        <item name="recomen_1">BOULDERING RECOMENDATIONS</item>
+        <item name="recomen_2">Stay away from the mats unless you find yourself climbing
+            or try to keep a safe distance of 2 meters from the wall if you are not climbing, without running.</item>
+        <item name="recomen_3">There should be no person / animal / object on the mats while
+            that someone is climbing.</item>
+        <item name="recomen_4">Eyes wide open and looking at the person (s) who are climbing. The
+            Climbers can fall at any time and without warning. </item>
+        <item name="recomen_5">Use the cats to climb while you are on the wall.</item>
+        <item name="recomen_6">If a climber is on the wall, let him finish before starting.</item>
+        <item name="recomen_7">Don\'t start a route that intersects with another climber\'s route already on the wall.</item>
+        <item name="recomen_5">Try not to bring any object in your pockets, and leave all your jewelry / bracelets / etc ... below</item>
+        <item name="recomen_6">Keep the brushes away from the walls, at least 2 meters.</item>
+        <item name="recomen_7">If someone reaches the top or falls on the road ... this is your chance!</item>
+        <item name="recomen_5">Don\'t brush under a climber in action.</item>
+        <item name="recomen_6">Group climbing: take care of each other and check that the landing zone is clear.</item>
+        <item name="recomen_7">Help promote a safe Boulder environment by sharing tips from
+            safety with the people around you.</item>
+    </string-array>
+    <string-array name="recomendaciones_caida">
+        <item name="recomencaida_1">FOR A SAFE FALL</item>
+        <item name="recomencaida_2">Go down whenever possible, using the grips.</item>
+        <item name="recomencaida_1">Land on both feet evenly to distribute the
+            impact: collapse your knees and hips to roll on your bottoms like a panda bear.</item>
+        <item name="recomencaida_1">NEVER land with your legs straight.</item>
+        <item name="recomencaida_1">ALWAYS avoid rotation when jumping or falling.</item>
+        <item name="recomencaida_1">Let the mattresses absorb your impact.</item>
+        <item name="recomencaida_1">Practice falling from a low height, to gain confidence first ;)</item>
+    </string-array>
+    <string-array name="objetos_perdidos">
+        <item name="objetos_1">TRUNK OF LOST PROPERTY</item>
+        <item name="objetos_2">Although we don\'t really keep them in a trunk;) ... if we keep
+            your forgotten things, if you forgot something, call us immediately! We keep your things
+            as long as possible.</item>
+    </string-array>
+    <string-array name="reglas_bouldercitos">
+        <item name="bouldercitos_1">RULES FOR LITTLE-BOULDER-ONES</item>
+        <item name="bouldercitos_2">Minors must be supervised at ALL times.</item>
+        <item name="bouldercitos_1">From 8 to 13 years it is mandatory that there is at least one supervisor for every two minors.</item>
+        <item name="bouldercitos_1">ALL children under the age of 13 must be within reach of
+            your supervisor at all times!</item>
+        <item name="bouldercitos_1">IF YOU ARE CLIMBING, YOU ARE NOT SUPERVISING, your little boulder cannot
+            stay alone while you climb.</item>
+    </string-array>
+    <string-array name="aceptacion_riesgos">
+        <item>RISK ACCEPTANCE</item>
+        <item>EVERY climber must sign the responsive before climbing any boulder.</item>
+        <item>Minors under 18 must have the responsive signed by a parent or legal guardian.</item>
+    </string-array>
+    <string name="noPermissions">Please accept the Permissions</string>
+    <string name="contract_header_1">"I: "</string>
+    <string name="contract_header_2">born in:</string>
+    <string name="contract_header_3">accept that i´m in legal age</string>
+    <string name="contract_header_4">and like father or tutor of the minor(s) on my charge:</string>
+</resources>

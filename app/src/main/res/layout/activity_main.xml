@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentBottom="true"
+    tools:context=".MainActivity">
+
+    <!-- Main Layout -->
+    <RelativeLayout
+        android:id="@+id/main_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background1"
+        android:screenOrientation="landscape"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="16dp">
+
+        <!-- Language Buttons Layout -->
+        <FrameLayout
+            android:id="@+id/lang_layout"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="0dp"
+            android:layout_marginBottom="20dp"
+            android:layout_weight="2"
+            android:gravity="end"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/es_btn_txt"
+                android:layout_width="55dp"
+                android:layout_height="55dp"
+                android:layout_gravity="end"
+                android:elevation="16dp"
+                android:paddingHorizontal="18.4dp"
+                android:paddingVertical="16dp"
+                android:layout_marginVertical="25dp"
+                android:layout_marginHorizontal="95dp"
+                android:text="ES"
+                android:textColor="@color/white"
+                android:textSize="16dp" />
+
+            <com.google.android.material.floatingactionbutton.FloatingActionButton
+                android:id="@+id/btn_es"
+                android:layout_width="55dp"
+                android:layout_height="55dp"
+                android:layout_gravity="end"
+                android:fontFamily="@font/poppins_light"
+
+                android:layout_marginHorizontal="95dp"
+                android:layout_marginVertical="25dp"
+                android:backgroundTint="@color/black"
+                android:clickable="true"
+                app:backgroundTint="#1C1B1B" />
+
+            <TextView
+                android:id="@+id/en_btn_txt"
+                android:layout_width="55dp"
+                android:layout_height="55dp"
+                android:layout_gravity="end"
+                android:elevation="16dp"
+                android:layout_marginVertical="25dp"
+                android:layout_marginHorizontal="20dp"
+                android:paddingHorizontal="17.6dp"
+                android:paddingVertical="16dp"
+                android:textColor="@color/white"
+                android:fontFamily="@font/poppins_light"
+                android:text="EN"
+                android:textSize="16dp" />
+
+            <com.google.android.material.floatingactionbutton.FloatingActionButton
+                android:id="@+id/btn_en"
+                android:layout_width="55dp"
+                android:layout_height="55dp"
+                android:layout_gravity="end"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginVertical="25dp"
+                android:backgroundTint="@color/black"
+                android:clickable="true"
+                app:backgroundTint="#090909" />
+
+
+        </FrameLayout>
+
+        <!-- Logo and Slogan Layout -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="370dp"
+            android:layout_below="@+id/lang_layout"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentEnd="true"
+
+            android:layout_alignParentRight="true"
+            android:layout_marginVertical="100dp"
+            android:layout_marginHorizontal="0dp"
+            android:layout_weight="6"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:elevation="16dp"
+                android:layout_marginHorizontal="100dp"
+                android:layout_weight="1"
+                android:background="@drawable/logo_black"
+                />
+
+
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:layout_marginVertical="0dp"
+                android:fontFamily="@font/poppins_light"
+                android:onClick="goToWelcome"
+                android:padding="@dimen/padding_regular"
+                android:text="@string/register_btn"
+                app:backgroundTint="#070707" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:fontFamily="@font/poppins_light"
+            android:layout_alignParentBottom="true"
+            android:layout_marginHorizontal="150dp"
+            android:layout_marginVertical="20dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+
+            <TextView
+                android:id="@+id/dataNotice"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="dataNotice"
+                android:gravity="center"
+                android:layout_marginVertical="30dp"
+                android:text="@string/use_data"
+                android:textColor="@color/black" />
+
+
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
