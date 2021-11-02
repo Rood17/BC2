@@ -134,8 +134,24 @@
                             android:textColor="@color/teal_700"
                             android:textSize="12sp"
                             android:onClick="goToPoliticas"
+                            android:paddingRight="5px"
+                            android:paddingLeft="5px"
                             android:text="@string/politicas"/>
-                    </LinearLayout>
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/black"
+                            android:textSize="12sp"
+                            android:text="@string/and"/>
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/teal_700"
+                            android:textSize="12sp"
+                            android:paddingLeft="5px"
+                            android:onClick="goToImagen"
+                            android:text="@string/imagen"/>
+                        </LinearLayout>
 
                     </LinearLayout>
 

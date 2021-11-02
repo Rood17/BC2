@@ -226,6 +226,15 @@ public class Welcome extends AppCompatActivity {
         startActivity(goToPoliticas);
     }
 
+    public void goToImagen(View view){
+
+        //Go to Register
+        Intent goToImgAdvc = new Intent();
+        goToImgAdvc.setClass(view.getContext(), ImageAdvice.class);
+
+        startActivity(goToImgAdvc);
+    }
+
     public void onCheckboxClicked(View view) {
         // Is the view now checked?
         boolean checked = ((CheckBox) view).isChecked();
