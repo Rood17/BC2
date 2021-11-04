@@ -1,0 +1,794 @@
+[
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_logo_brand_black_round.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-mdpi\\logo_brand_black_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_bc_launcher_foreground.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\bc_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_bc_launcher_foreground.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\bc_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_country.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\country.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_mail.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_baseline_5g_24.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_baseline_5g_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_bc_launcher.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-hdpi\\bc_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_dialog.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\layout\\activity_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_person.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_lang_es_btn_round.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-xxhdpi\\lang_es_btn_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_country.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\country.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_phone.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_baseline_edit_24.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_logo_brand_black.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-mdpi\\logo_brand_black.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_baseline_edit_24.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_logo_brand_black_foreground.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-xhdpi\\logo_brand_black_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_bc_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\bc_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_logo_brand_black_foreground.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-mdpi\\logo_brand_black_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_baseline_edit_24.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable_logo_azul_g.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\drawable\\logo_azul_g.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_brthday_icon.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\brthday_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_bc_launcher_2_round.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-anydpi-v26\\bc_launcher_2_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_final.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\layout\\activity_final.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_baseline_5g_24.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_baseline_5g_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_phone.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_lang_es_btn_foreground.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\lang_es_btn_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_person.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable_circle.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_lang_es_btn_round.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-mdpi\\lang_es_btn_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\font_poppins_semibold.ttf.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\font\\poppins_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_person.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\person.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_logo_brand_black.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_brand_black.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_bc_launcher_foreground.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-mdpi\\bc_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_bc_launcher.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-mdpi\\bc_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_country.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\country.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_lang_es_btn_round.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-anydpi-v26\\lang_es_btn_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_bc_launcher_round.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-xxxhdpi\\bc_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_brthday_icon.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\brthday_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_brthday_icon.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\brthday_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_logo_brand_black.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-xhdpi\\logo_brand_black.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_bc_launcher_round.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-hdpi\\bc_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable_logo.jpg.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\drawable\\logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable_shadow_btn.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\drawable\\shadow_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_baseline_edit_24.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_logo_brand_black_foreground.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-hdpi\\logo_brand_black_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_bc_launcher_2_foreground.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\bc_launcher_2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_lang_es_btn_foreground.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\lang_es_btn_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_bc_launcher_2.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-anydpi-v26\\bc_launcher_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_logo_brand_black_round.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-anydpi-v26\\logo_brand_black_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_bc_launcher_2_foreground.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\bc_launcher_2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_brthday_icon.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\brthday_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_bc_launcher.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-xhdpi\\bc_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_baseline_5g_24.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_baseline_5g_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_mail.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_image_advice.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\layout\\activity_image_advice.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_country.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\country.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_publicity.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\layout\\activity_publicity.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_logo_brand_black_background.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\logo_brand_black_background.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_bc_launcher_foreground.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-xhdpi\\bc_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_baseline_phone_android_24.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_baseline_phone_android_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_baseline_5g_24.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_baseline_5g_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_bc_launcher_2_foreground.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\bc_launcher_2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_bc_launcher_round.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-xhdpi\\bc_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\font_signatrue.ttf.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\font\\signatrue.ttf"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_logo_brand_black_round.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_brand_black_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_country.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\country.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_brthday_icon.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\brthday_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_logo_brand_black.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_brand_black.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_mail.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\font_poppins_black.ttf.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\font\\poppins_black.ttf"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_logo_brand_black_background.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\logo_brand_black_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_bc_launcher_foreground.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-hdpi\\bc_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_logo_brand_black_foreground.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_brand_black_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable_background3.jpg.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\drawable\\background3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_bc_launcher_round.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-xxhdpi\\bc_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_phone.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_logo_brand_black.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-anydpi-v26\\logo_brand_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_brthday_icon.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\brthday_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_mail.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\font_poppins_bolditalic.ttf.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\font\\poppins_bolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable_logo_black.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\drawable\\logo_black.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_lang_es_btn_foreground.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\lang_es_btn_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_logo_brand_black_round.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_brand_black_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_main_image.jpg.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\drawable-v24\\main_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_bc_launcher_foreground.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\bc_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\layout-land_activity_final.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\layout-land\\activity_final.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable_background2.jpg.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\drawable\\background2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_logo_brand_black_round.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-hdpi\\logo_brand_black_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\layout-land_activity_main.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_person.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable_background4.jpg.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\drawable\\background4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_logo_brand_black_background.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\logo_brand_black_background.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\font_poppins_light.ttf.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\font\\poppins_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_bc_launcher_2_foreground.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\bc_launcher_2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_bc_launcher.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-xxxhdpi\\bc_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_logo_brand_black_background.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\logo_brand_black_background.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable_background1.jpg.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\drawable\\background1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_logo_brand_black.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-hdpi\\logo_brand_black.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_bc_launcher_2.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-xxxhdpi\\bc_launcher_2.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_bc_launcher_foreground.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\bc_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_registration_form.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\layout\\activity_registration_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_phone.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\font_poppins_medium.ttf.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\font\\poppins_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable_action_btn.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\drawable\\action_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_mail.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\mail.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_bc_launcher_foreground.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\bc_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_bc_launcher_foreground.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\bc_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_logo_brand_black_background.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\logo_brand_black_background.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_lang_es_btn.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-anydpi-v26\\lang_es_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_baseline_phone_android_24.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_baseline_phone_android_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_lang_es_btn_foreground.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\lang_es_btn_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_lang_es_btn_foreground.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\lang_es_btn_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_baseline_phone_android_24.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_baseline_phone_android_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_baseline_edit_24.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_bc_launcher_foreground.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-xxxhdpi\\bc_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_mail.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_logo_brand_black_foreground.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_brand_black_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_baseline_edit_24.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_baseline_phone_android_24.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_baseline_phone_android_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_baseline_phone_android_24.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_baseline_phone_android_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_data_notice.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\layout\\activity_data_notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_logo_brand_black_background.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\logo_brand_black_background.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_bc_launcher_2_foreground.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\bc_launcher_2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_bc_launcher_2_foreground.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\bc_launcher_2_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_phone.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_country.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\country.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_lang_es_btn_round.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-xxxhdpi\\lang_es_btn_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_phone.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_mail.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_baseline_5g_24.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_baseline_5g_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_bc_launcher_2_foreground.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\bc_launcher_2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_lang_es_btn_round.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-xhdpi\\lang_es_btn_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_person.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_lang_es_btn_round.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-hdpi\\lang_es_btn_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_person.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_bc_launcher_round.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-anydpi-v26\\bc_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_bc_launcher_round.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-mdpi\\bc_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_review_doc.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\layout\\activity_review_doc.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_logo_brand_black_background.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\logo_brand_black_background.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_logo_brand_black_round.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-xhdpi\\logo_brand_black_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_lang_es_btn_foreground.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\lang_es_btn_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_brthday_icon.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\brthday_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_bc_launcher.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-anydpi-v26\\bc_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_lang_es_btn_foreground.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\lang_es_btn_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_country.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\country.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_person.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_baseline_5g_24.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_baseline_5g_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\font_poppins_blackitalic.ttf.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\font\\poppins_blackitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_bc_launcher.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-xxhdpi\\bc_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_phone.xml.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_baseline_phone_android_24.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_baseline_phone_android_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_baseline_5g_24.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_baseline_5g_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_baseline_phone_android_24.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_baseline_phone_android_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_bc_launcher_foreground.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-xxhdpi\\bc_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_baseline_edit_24.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rodmo\\Proyectos\\BoulderCorp\\BC2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]

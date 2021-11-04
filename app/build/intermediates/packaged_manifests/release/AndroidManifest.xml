@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mobileapp.bouldercorpregistration"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="30" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:icon="@mipmap/logo_brand_black"
+        android:label="BC Registration"
+        android:roundIcon="@mipmap/bc_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BoulderCorpRegistration.NoTitlle" >
+        <activity
+            android:name="com.mobileapp.bouldercorpregistration.Publicity"
+            android:label="@string/title_activity_publicity"
+            android:theme="@style/Theme.BoulderCorpRegistration.NoTitlle.NoActionBar" />
+        <activity android:name="com.mobileapp.bouldercorpregistration.ImageAdvice" />
+        <activity
+            android:name="com.mobileapp.bouldercorpregistration.Welcome"
+            android:theme="@style/Theme.BoulderCorpRegistration.NoTitlle.NoActionBar" />
+        <activity android:name="com.mobileapp.bouldercorpregistration.Final" />
+        <activity android:name="com.mobileapp.bouldercorpregistration.ReviewDoc" />
+        <activity android:name="com.mobileapp.bouldercorpregistration.DataNotice" />
+        <activity android:name="com.mobileapp.bouldercorpregistration.RegistrationForm" />
+        <activity android:name="com.mobileapp.bouldercorpregistration.MainActivity" >
+
+            <!-- android:screenOrientation="landscape" -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
