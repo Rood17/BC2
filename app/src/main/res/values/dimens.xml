@@ -12,7 +12,7 @@
     <dimen name="margin_ver_activity">47dp</dimen>
     <dimen name="margin_hor_activity">35dp</dimen>
     <dimen name="action_btn_margin">25dp</dimen>
-    <dimen name="act_btn_txt_size" type="dimen" format="float">15.3sp</dimen>
+    <dimen name="act_btn_txt_size" format="float" type="dimen">15.3sp</dimen>
     <dimen name="header">45sp</dimen>
     <dimen name="header_section">18sp</dimen>
     <dimen name="regular_paragraph">14sp</dimen>

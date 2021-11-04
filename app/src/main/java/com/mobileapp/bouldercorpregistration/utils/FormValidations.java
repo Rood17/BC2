@@ -1,5 +1,6 @@
 package com.mobileapp.bouldercorpregistration.utils;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
 
 import com.google.android.material.textfield.TextInputLayout;
@@ -7,6 +8,7 @@ import com.mobileapp.bouldercorpregistration.R;
 import com.mobileapp.bouldercorpregistration.RegistrationForm;
 
 import android.os.Build;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -24,9 +26,9 @@ public class  FormValidations {
     private static String fieldIsRequired = RegistrationForm.errorMessage;
     private static EditText Name, LastName, Email, Country, RespName1, RespName2, RespPhone1, RespPhone2;
     private static TextInputLayout NameLy, LastName_ly, Mail_ly, Country_ly, Resp_Ly, RespPhone_Ly;
-    private static ArrayList MinorsArray;
+    private static ArrayList MinorsArray, MediosArray;
     private static TextView Date;
-    private static String DateString;
+    private static String DateString, PConocer;
     private static View view;
     private static Context context;
     private static int registerCount;
@@ -129,9 +131,9 @@ public class  FormValidations {
     }
 
     //Check if a field is empty
+    @SuppressLint({"ResourceAsColor", "ResourceType"})
     public static boolean isEmptyField(EditText field, TextInputLayout fieldLy){
         String data = field.getText().toString().trim();
-
 
         if(TextUtils.isEmpty(data)){
             //field.setError(fieldIsRequired);
@@ -397,6 +399,17 @@ public class  FormValidations {
         RespPhone2 = respPhone2;
     }
 
+    // Encuesta
+    public static String getPConocer() { return PConocer; }
+    public static void setPConocer(String pConocer) {
+        PConocer = pConocer;
+    }
+
+    public static ArrayList getMediosArray() { return MediosArray; }
+    public static void setMediosArray(ArrayList<String> mediosArray) {
+        MediosArray = mediosArray;
+    }
+
 
 
 
@@ -417,6 +430,7 @@ public class  FormValidations {
         //regDataArray.add("País de Origen : " + getCountry().getText().toString());
         regDataArray.add("Email : " + getEmail().getText().toString());
         regDataArray.add(" ");
+        regDataArray.add(" ");
         regDataArray.add(" DATOS CONTACTO DE EMERGENCIA ");
         regDataArray.add(" ");
         regDataArray.add("1er Contacto : " + getRespName1().getText().toString());
@@ -431,6 +445,7 @@ public class  FormValidations {
         }
         if ( getMinorsArray() != null){
             regDataArray.add(" ");
+            regDataArray.add(" ");
             regDataArray.add("MENORES DE EDAD REGISTRADOS : " + getMinorsArray().size());
             regDataArray.add(" ");
             int index1 = 0;
@@ -439,6 +454,22 @@ public class  FormValidations {
                 regDataArray.add(index1 + ".- Nombre : " + field.getText().toString());
             }
         }
+
+        /**
+        regDataArray.add(" ");
+        regDataArray.add(" ");
+        regDataArray.add(" DATOS ENCUESTA ");
+        regDataArray.add(" ");
+        regDataArray.add("Primer Contacto : " + getPConocer());
+        if ( getMediosArray() != null){
+            regDataArray.add(" ");
+            regDataArray.add("Medios de contacto : " + getMediosArray().size());
+            regDataArray.add(" ");
+            for ( int i = 0; i < getMinorsArray().size(); i++ ){
+                regDataArray.add(i + ".- Medio : " + getMediosArray().get(i));
+                Log.d("FormValidations", "getMediosArraye - :) " + getMediosArray().get(i));
+            }
+        }**/
 
 
         return regDataArray;

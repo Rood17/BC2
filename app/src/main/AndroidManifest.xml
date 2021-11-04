@@ -3,11 +3,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.mobileapp.bouldercorpregistration">
 
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
-    <uses-permission android:name="android.permission.INTERNET"/>
-
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -17,10 +16,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BoulderCorpRegistration.NoTitlle"
         tools:replace="android:label">
-
+        <activity
+            android:name=".Publicity"
+            android:label="@string/title_activity_publicity"
+            android:theme="@style/Theme.BoulderCorpRegistration.NoTitlle.NoActionBar"></activity>
+        <activity android:name=".ImageAdvice" />
         <activity
             android:name=".Welcome"
-            android:theme="@style/Theme.BoulderCorpRegistration.NoTitlle.NoActionBar"></activity>
+            android:theme="@style/Theme.BoulderCorpRegistration.NoTitlle.NoActionBar" />
         <activity android:name=".Final" />
         <activity android:name=".ReviewDoc" />
         <activity android:name=".DataNotice" />
@@ -34,7 +37,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
     </application>
 
 </manifest>

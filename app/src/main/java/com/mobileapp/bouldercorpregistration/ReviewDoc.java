@@ -215,8 +215,22 @@ public class  ReviewDoc extends AppCompatActivity {
                 "<li>Fecha del registro : " + LocalDateTime.now() + "</li>"+
                 "</ul>"));
 
+        body += String.valueOf(Html.fromHtml("<br><br>" +
+
+                "<h1>DATOS ENCUESTA</h1>" +
+                "<p>Primer Contacto : " + FormValidations.getPConocer() + "</p>" ));
+        if ( FormValidations.getMediosArray().size() > 0 ) {
+            body += String.valueOf(Html.fromHtml("<br><p>Medios en que nos ha visto:</p><ul>"));
+            for (int i = 0; i < FormValidations.getMediosArray().size(); i++) {
+                body += String.valueOf(Html.fromHtml(
+                        "<li> - " + FormValidations.getMediosArray().get(i) + "</li>"
+                ));
+            }
+            body += String.valueOf(Html.fromHtml("</ul>"));
+        }
+
         if ( FormValidations.getMinorsArray() != null){
-            body += String.valueOf(Html.fromHtml("<hr><p></p>"+
+            body += String.valueOf(Html.fromHtml("<br><br>"+
                 "<h2> REGISTRO DE MENORES</h2>" +
                 "<p>Registrados : " + FormValidations.getMinorsArray().size() + "</p>" +
                 "<ul>"));
@@ -226,8 +240,9 @@ public class  ReviewDoc extends AppCompatActivity {
                                     "<li> - " + minorName + "</li>"
                     ));
                 }
-                body += String.valueOf(Html.fromHtml("</ul><hr><p></p><p> Saludos y ¡buena vibra!</p>"));
+                body += String.valueOf(Html.fromHtml("</ul>"));
         }
+        body += String.valueOf(Html.fromHtml("<br><br><p>Boulder Corp APP</p><p> Saludos y ¡buena vibra!</p>"));
 
         return body;
     }

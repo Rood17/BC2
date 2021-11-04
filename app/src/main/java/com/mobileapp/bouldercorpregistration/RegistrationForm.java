@@ -132,7 +132,6 @@ public class RegistrationForm extends AppCompatActivity {
 
         //Date Picker
         DatePickerFagment.passResources(getResources());
-
         //Set FORMS (DAO)
         RegistrationFormDao.setRegistrationData(name, lastName, email, date, null, personResp, personRespPhone, personResp2, personRespPhone2);
         RegistrationFormDao.setRegistrationLayoutData(name_ly, lastName_ly, mail_ly, null, personResp_ly, personRespPhone_ly);
@@ -154,9 +153,10 @@ public class RegistrationForm extends AppCompatActivity {
         btnContinue.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View view) {
+
                 //Go to next activity
                 if (checkPermissions())
-                    continueToDoc(view);
+                    continueToPubli(view);
 
             }
         });
@@ -243,7 +243,7 @@ public class RegistrationForm extends AppCompatActivity {
     }
 
     //Go to Forms
-    public void continueToDoc(View view){
+    public void continueToPubli(View view){
 
         dialogForm = ProgressDialog.show(this, "",
                 getResources().getText(R.string.loading), true);
@@ -254,11 +254,12 @@ public class RegistrationForm extends AppCompatActivity {
         //RegistrationFormBean.setArrayEnfants();
 
         //Call The next activity
-        Intent goToReviewDoc = new Intent();
-        goToReviewDoc.setClass(this, ReviewDoc.class);
+        Intent goToPubli = new Intent();
+        goToPubli.setClass(this, Publicity.class);
+        RegistrationFormDao.setRegistrationLayoutData(name_ly, lastName_ly, mail_ly, null, personResp_ly, personRespPhone_ly);
 
-        if (FormValidations.validateForm(view) ) {
-            startActivity(goToReviewDoc);
+        if ( FormValidations.validateForm(view) ) {
+            startActivity(goToPubli);
             //dialogForm.dismiss();
         } else {
             dialogForm.dismiss();
@@ -368,8 +369,7 @@ public class RegistrationForm extends AppCompatActivity {
             Toast.makeText(this.getApplicationContext(),
                     "Gracias",
                     Toast.LENGTH_LONG).show();
-            continueToDoc((View) getResources().getLayout(R.layout.activity_registration_form));
+            continueToPubli((View) getResources().getLayout(R.layout.activity_registration_form));
         }
     }
-
 }

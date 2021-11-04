@@ -55,7 +55,7 @@
     <string name="M11">November</string>
     <string name="M12">December</string>
     <string name="of_string">of</string>
-    <string name="country">Country</string>
+    <string name="country">Other</string>
     <string name="txt_despedida">We hope you enjoy your climb ... Remember to follow us on Instagram as @bouldercorpmx. Good hits!</string>
     <string name="obligatory_field">Please, fill all the required fields</string>
     <string name="cuantos_niños">How many?</string>
@@ -270,6 +270,8 @@ Climbing under the influence of intoxicating substances or
         <item name="objetos_2">Although we don\'t really keep them in a trunk;) ... if we keep
             your forgotten things, if you forgot something, call us immediately! We keep your things
             as long as possible.</item>
+        <item name="objetos_3">* We are not responsible for lost and / or stolen items within the
+            facilities and / or in the BOULDER CORP parking lot.</item>
     </string-array>
     <string-array name="reglas_bouldercitos">
         <item name="bouldercitos_1">RULES FOR LITTLE-BOULDER-ONES</item>
@@ -290,4 +292,39 @@ Climbing under the influence of intoxicating substances or
     <string name="contract_header_2">born in:</string>
     <string name="contract_header_3">accept that i´m in legal age</string>
     <string name="contract_header_4">and like father or tutor of the minor(s) on my charge:</string>
+    <string name="imagen">Image User Advice.</string>
+    <string name="img_advice_title">User Image Advice</string>
+    <string name="and"> and </string>
+    <string name="ir_registro">Register</string>
+    <string name="publi_end_p">Thanks for helping us to make bigger this amazing comunity.</string>
+    <string name="publi_otro">Other</string>
+    <string name="publi_pasando">I was just passign by</string>
+    <string name="publi_calle">Street publicity</string>
+    <string name="publi_refer">Friends or Family</string>
+    <string name="txt_publi_2">By wich medium did you hear of us?</string>
+    <string name="otro">Text</string>
+    <string name="txt_publi">Tell us! How did you hear about us?</string>
+    <string name="publi_title">Poll</string>
+    <string name="publi_conocer">How did you find out?</string>
+
+    <!-- Image Advice -->
+    <string-array name="image_advice">
+        <item name="imgad_1">I declare that I am in full use of my powers and I give my consent to BOULDER CORP so that it makes use of my image
+        through material captured / registered by BOULDER CORP personnel and within the
+        BOULDER CORP facilities and / or within an event organized by BOULDER CORP.
+        Whether my face and / or body appears partially or entirely in physical or digital content,
+        in photo, video and / or any other format usable with the intention of promoting
+        and publicize BOULDER CORP and the activities it performs, on social networks and / or in any medium
+        that BOULDER CORP considers beneficial to publicize its activities and services.</item>
+        <item name="imgad_2">In case of having an exclusive image use contract, contracted prior to my visit
+        to BOULDER CORP, I will let STAF members know my condition. In case of not warning
+        exhonored in advance and in full to BOULDER CORP and any of its members,
+        active or inactive due to the implications that the use of my image may have.</item>
+        <item name="imgad_3">I accept and acknowledge that the material that may be generated is granted on my part to BOULDER CORP of
+        FREE of charge and for an UNDEFINED TIME.</item>
+    </string-array>
+
+
+
+
 </resources>

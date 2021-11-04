@@ -123,7 +123,7 @@
                             app:endIconMode="custom"
                             app:startIconDrawable="@drawable/mail"
                             style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
-                            app:endIconContentDescription="que tranza">
+                            app:endIconContentDescription="none">
 
                             <com.google.android.material.textfield.TextInputEditText
                                 android:layout_width="match_parent"

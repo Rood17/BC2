@@ -75,7 +75,7 @@
     <string name="welcome_head">Recomendaciones Bouldereras</string>
     <string name="welcome">Bienvenid@</string>
     <string name="txt_bienvenida">En BOULDER CORP queremos que te sientas como en casa, cualquier duda o inquietud que tengas, acercarte a nuestro personal,... ¡Estamos para servirte!</string>
-    <string name="check_politicas">He leído y estoy de acuerdo con las</string>
+    <string name="check_politicas">He leído y estoy de acuerdo con las </string>
     <string name="reglamentoOk">Estoy de acuerdo y me comprometo a seguir con el reglamento/recomendaciones de BOULDER CORP.</string>
 
 
@@ -114,9 +114,6 @@
     <string name="introduceFirma">Introduce tu firma</string>
     <string name="sign">Firmar</string>
     <string name="clear">Borrar</string>
-
-
-
 
 
     <!-- Contract Array -->
@@ -189,8 +186,6 @@
     <string name="p_7_a">Al marcar aquí, está dando su consentimiento para el uso de su firma electrónica en lugar de una firma original en papel. En su lugar, tiene derecho a solicitar que firme una copia impresa. Al firmar aquí, renuncia a ese derecho. Después del consentimiento, puede, previa solicitud por escrito, obtener una copia impresa de un registro electrónico. No se cobrará ninguna tarifa por dicha copia y no se requiere ningún hardware o software especial para verla. Su acuerdo de usar una firma electrónica con nosotros para cualquier documento continuará hasta el momento en que nos notifique por escrito que ya no desea usar una firma electrónica. No hay ninguna sanción por retirar su consentimiento. Siempre debe asegurarse de que tengamos una dirección de correo electrónico actual para comunicarnos con usted con respecto a cualquier cambio, si es necesario.</string>
 
 
-
-
     <!--- Recomendaciones -->
     <string-array name="recomendaciones">
         <item name="recomen_1">RECOMENDACIONES BOULDERERAS</item>
@@ -219,6 +214,9 @@
     <string-array name="objetos_perdidos">
         <item name="objetos_1">BAÚL DE LOS OBJETOS PERDIDOS</item>
         <item name="objetos_2">Aunque no los guardamos realmente en un baúl ;) ... si guardamos tus cosas olvidadas, si olvidaste algo ¡llámanos de inmediato! Conservamos tus cosas todo el tiempo que nos sea posible.</item>
+        <item name="objetos_3">*No nos hacemos responsables por objetos perdidos y/o robados dentro de las
+            instalaciones y/o en el estacionamiento de BOULDER CORP.</item>
+
     </string-array>
     <string-array name="reglas_bouldercitos">
         <item name="bouldercitos_1">REGLAS PARA LOS BOULDERCITOS</item>
@@ -236,8 +234,16 @@
 
     <!-- Just numbers for spinner -->
     <string-array name="simple_numbers">
-        <item>-</item><item>1</item><item>2</item><item>3</item><item>4</item><item>5</item>
-        <item>6</item><item>7</item><item>8</item><item>9</item>
+        <item>-</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
     </string-array>
 
     <!-- Months -->
@@ -258,6 +264,7 @@
     <string name="country">País</string>
     <string name="aviso_datos">Aviso de Uso de Datos</string>
     <string name="politicas"> Políticas de Privacidad</string>
+    <string name="imagen">" Aviso de Uso de Imagen."</string>
     <string name="cuantos_niños">¿De cuantos estamos hablando?</string>
     <string name="regresar">Regresar</string>
     <string name="aceptar">Aceptar</string>
@@ -266,6 +273,41 @@
     <string name="contract_header_2">"nacido el: "</string>
     <string name="contract_header_3">en mi carácter de cliente, mayor de edad</string>
     <string name="contract_header_4">"y/o como padre o tutor del/los menor(es) a mi a cargo: "</string>
+    <string name="and"> y </string>
+    <string name="title_activity_publicity" translatable="false">Publicity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next" translatable="false">Next</string>
+    <string name="previous" translatable="false">Previous</string>
+
+    <string name="publi_conocer">¿Cómo te enteraste?</string>
+    <string name="publi_title">Encuesta</string>
+    <string name="txt_publi">¡Cuéntanos!... ¿Cómo es que te enteraste de nosotros?</string>
+    <string name="otro">Introduzca texto</string>
+    <string name="txt_publi_2">¿En qué medios has escuchado de nosotros?</string>
+    <string name="publi_refer">Amigos y/o Familiares</string>
+    <string name="publi_calle">Publicidad en la calle</string>
+    <string name="publi_pasando">Iba pasando</string>
+    <string name="publi_otro">Otro</string>
+    <string name="publi_end_p">¡Gracias por ayudarnos a hacer crecer a esta gran comunidad!</string>
+    <string name="ir_registro">Registro</string>
+
+    <!-- Image Advice -->
+    <string name="img_advice_title">Aviso de Uso de Imagen</string>
+    <string-array name="image_advice">
+        <item name="imgad_1">Declaro que estoy en pleno uso de mis facultades y doy mi conscentimiento a BOULDER CORP para que este haga uso de mi imagen
+        a través de material capturado/registrado por personal de BOULDER CORP y dentro de las
+        instalaciones de BOULDER CORP y/o dentro de algún evento organizado por BOULDER CORP.
+        Ya sea que aparezca mi rostro y/o cuerpo de forma parcial o en su totalidad en contenido físico o digital,
+        en formato de fotografía, video y/o cualquier otro formato utilizable con la intención de promocionar
+        y publicitar a BOULDER CORP y las actividades que este desempeña, en redes sociales y/o en cualquier medio
+        que BOULDER CORP considere beneficioso para dar a conocer sus actividades y servicios.</item>
+        <item name="imgad_2">En caso de tener un contrato de exclusividad de uso de imagen, contraido previo a mi visita
+        a BOULDER CORP, le haré saber a los miembros del STAF mi condición. En caso de no avisar
+        exhonero por adelantado y por completo a BOULDER CORP y a cualquiera de sus integrantes,
+        activos o inactivos por las implicaciones que pueda tener el uso de mi imagen.</item>
+        <item name="imgad_3">Acepto y reconozxco que el material que se pueda generar es otorgado de mi parte hacía BOULDER CORP de
+        manera GRATUITA y por TIEMPO INDEFINIDO.</item>
+    </string-array>
 
 
 </resources>
