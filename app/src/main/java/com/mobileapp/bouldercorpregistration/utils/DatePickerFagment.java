@@ -51,9 +51,9 @@ public class DatePickerFagment  {
             public void onDateSet(DatePicker datePicker, int year, int month, int day) {
 
                 //Todo your work here
-                FormValidations.setDateString(day + " " + of + " " + getMonthName(month) + " " + of + " " + year );
+                // Fix month problem (+1)
+                FormValidations.setDateString(day + " " + of + " " + getMonthName(month+1) + " " + of + " " + year );
                 date.setText(FormValidations.getDateString());
-
 
                 //Remove Error
                 if (date != null){
