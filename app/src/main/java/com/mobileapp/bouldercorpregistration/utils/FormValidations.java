@@ -174,7 +174,7 @@ public class  FormValidations {
     public static Boolean emailVerifier(String emailString){
 
         //Definir si es un email válido
-        if ( emailString.contains("@") && emailString.contains(".com") )
+        if ( emailString.contains("@") && emailString.contains(".") )
             return true;
 
         Toast.makeText(getContext(), R.string.form_email_correct, Toast.LENGTH_LONG).show();
