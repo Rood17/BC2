@@ -22,7 +22,7 @@ import java.util.Calendar;
 
 public class DatePickerFagment  {
 
-    private static int Day, Month, Year;
+    public static int Day, Month, Year;
     private static Resources Resources;
 
     public static void passResources(Resources resources){
@@ -61,10 +61,18 @@ public class DatePickerFagment  {
                     RegistrationForm.btnChangeColor(true, "birth");
                 }
 
+                // Set values for validation
+                FormValidations.setSelectedDateCode(year);
+                FormValidations.setActualDateCode(Year);
+
+                // Set Data Default
+                Day = day;
+                Month = month;
+                Year = year;
             }
 
             //Default date
-        }, 1980, Month, Day);
+        }, Year, Month, Day);
 
         dialog.getWindow().setBackgroundDrawable(new ColorDrawable(android.graphics.Color.TRANSPARENT));
 
