@@ -5,7 +5,8 @@
     <!-- TOASTS -->
     <string name="pdfCreate">Documento firmado exitosamente</string>
     <string name="form_error_correct">Favor de rellenar correctamente el formulario</string>
-    <string name="form_email_correct">Introduzca una mail válido</string>
+    <string name="form_email_correct">Introduzca un mail válido</string>
+    <string name="date_minor">La fecha indica que es menor de edad</string>
     <string name="error_valid_field">Campo Obligatorio</string>
     <string name="lessthan9">Máximo 9 menores a cargo</string>
     <string name="loading">Cargando. Porfavor espere...</string>
@@ -74,7 +75,7 @@
     <!-- WELCOME -->
     <string name="welcome_head">Recomendaciones Bouldereras</string>
     <string name="welcome">Bienvenid@</string>
-    <string name="txt_bienvenida">En BOULDER CORP queremos que te sientas como en casa, cualquier duda o inquietud que tengas, acercarte a nuestro personal,... ¡Estamos para servirte!</string>
+    <string name="txt_bienvenida">En BOULDER CORP queremos que te sientas como en casa, cualquier duda o inquietud que tengas, acercarte a nuestro personal... ¡Estamos para servirte!</string>
     <string name="check_politicas">He leído y estoy de acuerdo con las </string>
     <string name="reglamentoOk">Estoy de acuerdo y me comprometo a seguir con el reglamento/recomendaciones de BOULDER CORP.</string>
 
@@ -128,7 +129,7 @@
         Participación (el "Deslinde").</item>
         <item>De mi parte, de mis familiares, administradores y representantes legales
         declaro que <u>soy física y mentalmente capaz</u> de participar en todas las actividades de escalada de BOULDER CORP. y hago cesión de lo siguiente:</item>
-
+        <item>De igual manera declaro que estoy de acuerdo con las polticas de privacidad y de uso de imagen de Boulder Corp. </item>
     </string-array>
     <string-array name="contract_2">
         <item name="contract_title_2">RECONOCIMIENTO DE RIESGOS</item>

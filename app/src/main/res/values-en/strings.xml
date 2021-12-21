@@ -129,7 +129,7 @@
         <item>From me, from my family members, administrators and legal representatives
         I declare that I am physically and mentally capable of participating in all BOULDER CORP
             climbing activities. and I assign the following:</item>
-
+        <item>In the same way, i accept the policy of use of data and use of image of Boulder Corp</item>
     </string-array>
     <string-array name="contract_2">
         <item name="contract_title_2">RISK RECOGNITION</item>
@@ -323,8 +323,7 @@ Climbing under the influence of intoxicating substances or
         <item name="imgad_3">I accept and acknowledge that the material that may be generated is granted on my part to BOULDER CORP of
         FREE of charge and for an UNDEFINED TIME.</item>
     </string-array>
-
-
+    <string name="date_minor">Are you a minor?</string>
 
 
 </resources>
