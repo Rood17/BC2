@@ -31,7 +31,7 @@ public class  FormValidations {
     private static String DateString, PConocer;
     private static View view;
     private static Context context;
-    private static int registerCount;
+    private static int registerCount, SelectedDateCode, ActualDateCode;
 
 
     //Obligatory Fields
@@ -53,6 +53,9 @@ public class  FormValidations {
         }
         if(isEmptyField(getDate())){
             valid = false;
+        } else {
+            if (!dateVerifier())
+                valid = false;
         }
         /**if(isEmptyField(getCountry(), getCountryLy())){
             System.out.println("Esta Vacio getCountry 639");
@@ -172,20 +175,32 @@ public class  FormValidations {
 
     //Check is a valid email
     public static Boolean emailVerifier(String emailString){
-
+        final Toast toast = Toast.makeText(getContext(), R.string.form_email_correct, Toast.LENGTH_LONG);
         //Definir si es un email válido
-        if ( emailString.contains("@") && emailString.contains(".") )
+        if ( emailString.contains("@") && emailString.contains(".") &&
+                (emailString.lastIndexOf(".") + 3 <= emailString.length() )) {
+            toast.cancel();
             return true;
+        }
 
-        Toast.makeText(getContext(), R.string.form_email_correct, Toast.LENGTH_LONG).show();
+        System.out.println("666 - " + emailString.lastIndexOf("."));
+        toast.show();
         getEmail().setError(fieldIsRequired);
         return false;
     }
 
-    public static void dateFormat(Context context, String Date ){
+    // Date verifier
+    public static Boolean dateVerifier(){
+        final Toast toast = Toast.makeText(getContext(), R.string.date_minor, Toast.LENGTH_LONG);
+        // Know if is a valide date
+        if ( getActualDateCode() - getSelectedDateCode() >= 18 ) {
+            toast.cancel();
+            return true;
+        }
 
-        // listener y al escribir 2 datos poner in / y así
-
+        toast.show();
+        getDate().setError(fieldIsRequired);
+        return false;
     }
 
     public static void formListeners(View view, Button btnContinue){
@@ -271,6 +286,14 @@ public class  FormValidations {
     public static void setDate(TextView date) {
         Date = date;
     }
+
+    public static int getSelectedDateCode() { return SelectedDateCode; }
+
+    public static void setSelectedDateCode(int selectedDateCode){ SelectedDateCode = selectedDateCode;}
+
+    public static int getActualDateCode() { return ActualDateCode; }
+
+    public static void setActualDateCode(int actualDateCode){ ActualDateCode = actualDateCode;}
 
     public static EditText getCountry() {
         return Country;

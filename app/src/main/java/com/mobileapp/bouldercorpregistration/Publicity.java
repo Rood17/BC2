@@ -10,6 +10,7 @@ import android.os.Bundle;
 import com.codesgood.views.JustifiedTextView;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
+import com.google.android.material.textfield.TextInputEditText;
 import com.google.android.material.textfield.TextInputLayout;
 import com.itextpdf.text.pdf.TextField;
 import com.mobileapp.bouldercorpregistration.utils.FormValidations;
@@ -41,7 +42,7 @@ public class Publicity extends AppCompatActivity {
     TextInputLayout otherField;
     LinearLayout p_publi;
     Boolean otherFieldFlag = false;
-    EditText publi_otro_txt;
+    EditText otherFieldText;
     ArrayList<String> mediosArray;
     CheckBox checkFb, checkInsta, checkRef, checkAnuncioCalle;
 
@@ -64,6 +65,7 @@ public class Publicity extends AppCompatActivity {
         act_conocer = (AutoCompleteTextView)findViewById(R.id.act_conocer_redes);
 
         otherField = (TextInputLayout) findViewById(R.id.publi_otro);
+        otherFieldText = (EditText) findViewById(R.id.publi_otro_txt);
         p_publi = (LinearLayout) findViewById(R.id.p_publi);
 
         checkFb = (CheckBox) findViewById(R.id.checkFb);
@@ -225,8 +227,18 @@ public class Publicity extends AppCompatActivity {
         goToReviewDoc.setClass(this, ReviewDoc.class);
 
         if ( !FormValidations.isEmptyField(act_conocer, til_conocer) ) {
-            sendData();
-            startActivity(goToReviewDoc);
+            if (otherFieldFlag) {
+                if (!FormValidations.isEmptyField(otherFieldText, otherField))
+                {
+                    sendData();
+                    startActivity(goToReviewDoc);
+                }
+            } else {
+                sendData();
+                startActivity(goToReviewDoc);
+
+            }
+            dialogForm.dismiss();
 
         } else {
             til_conocer.setError(errorMessage);

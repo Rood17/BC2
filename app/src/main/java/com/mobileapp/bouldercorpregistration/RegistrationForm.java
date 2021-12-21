@@ -244,7 +244,7 @@ public class RegistrationForm extends AppCompatActivity {
 
     //Go to Forms
     public void continueToPubli(View view){
-
+        final Toast toast = Toast.makeText(this, R.string.form_error_correct, Toast.LENGTH_LONG);
         dialogForm = ProgressDialog.show(this, "",
                 getResources().getText(R.string.loading), true);
 
@@ -260,13 +260,14 @@ public class RegistrationForm extends AppCompatActivity {
 
         if ( FormValidations.validateForm(view) ) {
             startActivity(goToPubli);
-            //dialogForm.dismiss();
+            dialogForm.dismiss();
+            toast.cancel();
         } else {
             dialogForm.dismiss();
             btnContinue.setTextColor(Color.RED);
             FormValidations.formListeners(view, btnContinue);
             //btnContinue.setBackgroundColor(Color.rgb(213, 212, 212));
-            Toast.makeText(this, R.string.form_error_correct, Toast.LENGTH_LONG).show();
+            toast.show();
         }
 
     }

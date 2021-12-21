@@ -75,7 +75,7 @@ public class Welcome extends AppCompatActivity {
                 if ( isChPoliticas && isChReglamento){
 
                     startActivity(goToRegister);
-                    //dialogWelcome.dismiss();
+                    dialogWelcome.dismiss();
                 } else {
                     dialogWelcome.dismiss();
                     Toast.makeText(view.getContext(), R.string.obligatory_field, Toast.LENGTH_LONG).show();
@@ -182,7 +182,7 @@ public class Welcome extends AppCompatActivity {
                         txtJustify.setTextSize(14);
                         //txtJustify.setTypeface(font);
                         //el primer texto  20
-                        if ( i == 2)
+                        if ( i == 0)
                             txtJustify.setPadding(0,25,0,0);
                         else if ( i == itemArray.length)
                             txtJustify.setPadding(0,0,0,25);
