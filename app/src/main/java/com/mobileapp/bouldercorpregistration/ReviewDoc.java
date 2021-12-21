@@ -2,22 +2,13 @@ package com.mobileapp.bouldercorpregistration;
 
 import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.app.ActivityCompat;
-import androidx.core.content.ContextCompat;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
 
-import android.Manifest;
-import android.annotation.SuppressLint;
-import android.content.Context;
 import android.content.Intent;
-import android.content.pm.PackageManager;
-import android.graphics.Bitmap;
 import android.os.Build;
 import android.os.Bundle;
-import android.os.Environment;
 import android.text.Html;
-import android.util.DisplayMetrics;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
@@ -25,18 +16,14 @@ import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.creativityapps.gmailbackgroundlibrary.BackgroundMail;
 import com.itextpdf.text.DocumentException;
 import com.mobileapp.bouldercorpregistration.utils.CreatePDF;
 import com.mobileapp.bouldercorpregistration.utils.FormValidations;
-import com.mobileapp.bouldercorpregistration.utils.LocaleHelper;
 import com.mobileapp.bouldercorpregistration.utils.SignDialogFragment;
 import com.mobileapp.bouldercorpregistration.utils.TemplatePDF;
 
-import java.io.File;
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 
@@ -62,8 +49,6 @@ public class  ReviewDoc extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_review_doc);
-
-
 
         //prepare for contract print
         contractLayout = findViewById(R.id.contract);
@@ -160,36 +145,58 @@ public class  ReviewDoc extends AppCompatActivity {
     }
 
     @RequiresApi(api = Build.VERSION_CODES.O)
+    protected void sendBackEmail() {
+        try {
+            BackgroundMail.newBuilder(this)
+                    .withUsername("bc.regitro.backup@gmail.com")
+                    .withPassword("bcbackup2021")
+                    // bc.registro593
+                    .withMailto("bc.registro.backup@gmail.com")
+                    .withType(BackgroundMail.TYPE_PLAIN)
+                    .withSubject("Responsiva-" + FormValidations.getCompleteNameString())
+                    .withBody(String.valueOf(setBody()))
+                    .withAttachments(String.valueOf(TemplatePDF.pdfFile))
+                    .withOnSuccessCallback(new BackgroundMail.OnSuccessCallback() {
+                        @Override
+                        public void onSuccess() {
+                            //do some magic
+                            Final.changeBtnStatus(true);
+                        }
+                    })
+                    .withOnFailCallback(new BackgroundMail.OnFailCallback() {
+                        @Override
+                        public void onFail() {
+                            //do some magic
+                        }
+                    })
+                    .send();
+
+        } catch (Exception e){
+                try {
+
+                } catch (final IllegalArgumentException el) {
+                    // Handle or log or ignore
+                } catch (final Exception ex) {
+                    // Handle or log or ignore
+                } finally {
+                    Log.e("sendBackEmail", e.toString());
+                }
+            Log.e("sendBackEmail", e.toString());
+        }
+    }
+
+    @RequiresApi(api = Build.VERSION_CODES.O)
     public void goToFinish(){
+
+        // Send Back Email
+        try {
+            sendBackEmail();
+        } catch (Exception e) {
+            Log.e("Review Doc - goToFinish", e.toString());
+        }
+
+
         //Call The next activity
-
-
-
-        BackgroundMail.newBuilder(this)
-                .withUsername("bc.regitro.backup@gmail.com")
-                .withPassword("bcbackup2021")
-                // bc.registro593
-                .withMailto("bc.registro.backup@gmail.com")
-                .withType(BackgroundMail.TYPE_PLAIN)
-                .withSubject("Responsiva-" + FormValidations.getCompleteNameString())
-                .withBody(String.valueOf(setBody()))
-                .withAttachments(String.valueOf(TemplatePDF.pdfFile))
-                .withOnSuccessCallback(new BackgroundMail.OnSuccessCallback() {
-                    @Override
-                    public void onSuccess() {
-                        //do some magic
-                    }
-                })
-                .withOnFailCallback(new BackgroundMail.OnFailCallback() {
-                    @Override
-                    public void onFail() {
-                        //do some magic
-                    }
-                })
-                .send();
-
-
-
         Intent goToFinish = new Intent();
         goToFinish.setClass(this.getApplicationContext(), Final.class);
 
@@ -219,7 +226,7 @@ public class  ReviewDoc extends AppCompatActivity {
 
                 "<h1>DATOS ENCUESTA</h1>" +
                 "<p>Primer Contacto : " + FormValidations.getPConocer() + "</p>" ));
-        if ( FormValidations.getMediosArray().size() > 0 ) {
+        if ( FormValidations.getMediosArray() != null && FormValidations.getMediosArray().size() > 0  ) {
             body += String.valueOf(Html.fromHtml("<br><p>Medios en que nos ha visto:</p><ul>"));
             for (int i = 0; i < FormValidations.getMediosArray().size(); i++) {
                 body += String.valueOf(Html.fromHtml(

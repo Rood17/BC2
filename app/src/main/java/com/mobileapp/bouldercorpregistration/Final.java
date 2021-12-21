@@ -3,9 +3,11 @@ package com.mobileapp.bouldercorpregistration;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+import android.graphics.Color;
 import android.os.Bundle;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.LinearLayout;
 
 import com.mobileapp.bouldercorpregistration.utils.CreateTextLayout;
@@ -14,6 +16,7 @@ import com.mobileapp.bouldercorpregistration.utils.FormValidations;
 public class Final extends AppCompatActivity {
 
     private LinearLayout goodbyeTxtLy;
+    public static Button final_button;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -22,6 +25,11 @@ public class Final extends AppCompatActivity {
 
         //ly
         goodbyeTxtLy = findViewById(R.id.goodbye_txt);
+        final_button = (Button) findViewById(R.id.final_button);
+
+        // Disabled
+        final_button.setEnabled(false);
+        final_button.setBackgroundColor(Color.GRAY);
 
         //set goodbye text
         ViewGroup.LayoutParams paramsExample = new ViewGroup.LayoutParams(
@@ -31,6 +39,11 @@ public class Final extends AppCompatActivity {
         CreateTextLayout text = new CreateTextLayout(this);
         //text.createParagraph(goodbyeTxtLy, "normal", paramsExample, this.getResources().getString(R.string.goodbye_txt), "center");
 
+    }
+
+    public static void changeBtnStatus(Boolean isOn){
+        final_button.setBackgroundColor(Color.BLACK);
+        final_button.setEnabled(isOn);
     }
 
     public void finishReg(View v){
